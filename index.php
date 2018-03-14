@@ -3,7 +3,11 @@
 <style type="text/css">
 <!--
 /*--><![CDATA[/* ><!--*/
-
+body{
+  -ms-word-break: break-all;
+  word-break: break-all;
+  word-break: break-word;
+}
 .l-container {}
 
 .l-footer {
@@ -13,20 +17,28 @@
 .l-main-container {
     transform: none;
     max-width: 1440px;
-    margin-top: -120px;
-}
 
+}
+@media only screen and (min-width: 1140px) {
+    .l-main-container {
+        margin-top: -120px;       
+    }
+}
 .plan-intro {
     max-width: 800px;
     margin: auto;
-    padding: 40px 0;
     font-size: 18px;
 }
-
+@media only screen and (min-width: 768px) {
+    .plan-intro {
+        padding: 40px 0;      
+    }
+}
 .plan-section {
     max-width: 800px;
     margin: auto;
     padding-bottom: 40px;
+    font-size: 18px;
 }
 
 .plan-section__container {
@@ -35,20 +47,27 @@
 }
 
 .plan-section__header {
-    font-size: 36px;
+    
 }
 
 .plan-section__table-label {
+    
     position: -webkit-sticky;
     position: sticky;
     top: 0;
     background: white;
     padding: 10px 0;
     text-align: center;
-    -webkit-box-shadow: 1px 12px 25px -16px rgba(0, 0, 0, 0.2);
-    -moz-box-shadow: 1px 12px 25px -16px rgba(0, 0, 0, 0.2);
-    box-shadow: 1px 12px 25px -16px rgba(0, 0, 0, 0.2);
     margin-bottom: 15px;
+}
+
+@media only screen and (min-width: 768px) {
+    .plan-section__table-label {
+/*        position: static;
+        font-size: 32px;*/
+    }
+    
+
 }
 
 .plan-sidebar {
@@ -71,17 +90,32 @@
     list-style-type: none;
 }
 
-.plan-table {
-    width: 100%;
+.plan-table{
+    padding: 10px;
+}
+.plan-table:nth-of-type(2n) {
+    background: #efefef;
 }
 
-.plan-table tr td:first-child {
-    font-size: 21px;
-    background-color: #eef2ff;
+.plan-table__column--large-text{
+    font-size: 20px;
+}
+@media only screen and (min-width: 768px) {
+    .plan-table {
+        width: 100%;
+        display: flex;
+        padding: 15px;
+    }
+
+    .plan-table__column{
+        flex: 50%;
+        padding: 10px;
+    }
 }
 
 .plan-table__timely-updates{
 	list-style-type: none;
+    padding-left: 20px;
 }
 
 .plan-table__timely-updates li:before {    
@@ -109,45 +143,47 @@
     <p>It’s on all of us to continue this important work.&nbsp;</p>
 </div>
 <div class="plan-section__container">
+    <h3 class="plan-section__table-label">Prevention and Education</h3>
     <div class="plan-section" id="prevention-and-education">
-        <h3 class="plan-section__header">Prevention and Education</h3>
+        
         <p><strong>Goal:</strong> To expand existing programs, create new education opportunities for the campus community, and use comprehensive evaluation to maximize the effectiveness of all programming. This work is guided by the&nbsp;UI Comprehensive Education Model.</p>
     </div>
-    <h4 class="plan-section__table-label">Prevention and Education Implementation and Updates</h4>
-    <table class="plan-table" style="width:100%;" cellspacing="1" cellpadding="1" border="1">
-        <tbody>
-            <tr>
-                <th>Implementation</th>
-                <th>Updates</th>
-            </tr>
-            <tr>
-                <td>Enhance education about resources on campus and in the community for students to ensure they know where to get help and where to make a report by: (12)(B)
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+            <p>Enhance education about resources on campus and in the community for students to ensure they know where to get help and where to make a report by: (12)(B)
                     <ul>
                         <li>Providing a safety booklet in every residence hall room that highlights resources available on campus (2)</li>
                         <li>Updating crime alerts to include hyperlinks/images (11)</li>
                         <li>Increasing reminders about where to get help and where to report by exploring new communication methods to reach students and implementing messaging campaigns (9, 12) (B)</li>
                     </ul>
-                </td>
-                <td>
-                    <ul class="plan-table__timely-updates">
-                        <li><strong>Spring 2018:</strong> OSMRC began partnering with the Division of Student Life to utilize its social media channels to raise awareness about campus resources</li>
-                        <li><strong>Fall 2017</strong>: OSMRC implemented the website improvements suggested by the Callisto subcommittee, whose&nbsp;final recommendation&nbsp;was not to adopt Callisto</li>
-                        <li><strong>Summer 2017</strong>: A committee formed to review the online sexual assault reporting app&nbsp;Callisto</li>
-                        <li><strong>Fall 2016</strong>: UI Athletics added reporting and resource information to new student athlete orientation program</li>
-                        <li><strong>Fall 2016</strong>: Redesigned&nbsp;resource and reporting information in Success at Iowa course to ensure students know where to get help</li>
-                        <li><strong>Fall 2016:</strong> Department of Public Safety introduced the&nbsp;Hawk Watch app</li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>
+            </p>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
+            <ul class="plan-table__timely-updates">
+                <li><strong>Spring 2018:</strong> OSMRC began partnering with the Division of Student Life to utilize its social media channels to raise awareness about campus resources</li>
+                <li><strong>Fall 2017</strong>: OSMRC implemented the website improvements suggested by the Callisto subcommittee, whose&nbsp;final recommendation&nbsp;was not to adopt Callisto</li>
+                <li><strong>Summer 2017</strong>: A committee formed to review the online sexual assault reporting app&nbsp;Callisto</li>
+                <li><strong>Fall 2016</strong>: UI Athletics added reporting and resource information to new student athlete orientation program</li>
+                <li><strong>Fall 2016</strong>: Redesigned&nbsp;resource and reporting information in Success at Iowa course to ensure students know where to get help</li>
+                <li><strong>Fall 2016:</strong> Department of Public Safety introduced the&nbsp;Hawk Watch app</li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
                     <p>Provide training on responding effectively to disclosures to promote help-seeking behavior by:</p>
                     <ul>
                         <li>Increasing education programs for students/campus community on how to respond to a disclosure by a friend/peer (9)</li>
                         <li>Ensuring responsible employees or Academic Administrative Officers (A/AOs) can recognize and respond to a disclosure of sexual misconduct, dating violence, or stalking&nbsp;</li>
                     </ul>
-                </td>
-                <td>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
                     <ul class="plan-table__timely-updates">
                         <li><strong>Spring 2018:</strong> OSMRC began partnering with the Division of Student Life to utilize its social media channels to raise awareness about campus resources</li>
                         <li><strong>Fall 2017</strong>: OSMRC implemented the website improvements suggested by the Callisto subcommittee, whose&nbsp;final recommendation&nbsp;was not to adopt Callisto</li>
@@ -156,122 +192,152 @@
                         <li><strong>Fall 2016</strong>: Redesigned&nbsp;resource and reporting information in Success at Iowa course to ensure students know where to get help</li>
                         <li><strong>Fall 2016:</strong> Department of Public Safety introduced the&nbsp;Hawk Watch app</li>
                     </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Implement an online refresher course on sexual misconduct in the first semester for incoming undergraduate students as a follow-up to the required Success at Iowa course taken before coming to campus (2)
+        </div>
+
+    </div>
+
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+                   <p>Implement an online refresher course on sexual misconduct in the first semester for incoming undergraduate students as a follow-up to the required Success at Iowa course taken before coming to campus (2)
                         <br> &nbsp;
                     </p>
-                </td>
-                <td>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
+    
                     <ul class="plan-table__timely-updates">
                         <li><strong>Summer 2017:</strong> Refresher course implemented as a require component for all incoming fall 2017 graduate and professional students</li>
                         <li><strong>Fall 2016:</strong> Refresher course made available to UI community via the&nbsp;Ending Violence at Iowasite through the end of the fall 2016 semester</li>
                         <li><strong>Fall 2016:</strong> Refresher course implemented as a required component of the Success at Iowa course for all incoming Spring 2017 undergraduate students</li>
                     </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>Develop a new module for orientation programs for incoming graduate and professional students to increase awareness of resources and reporting options, as well as prevention education (5, 12) (B,&nbsp;C)
-                </td>
-                <td>
+          
+        </div>
+
+    </div>
+     <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+<p>Develop a new module for orientation programs for incoming graduate and professional students to increase awareness of resources and reporting options, as well as prevention education (5, 12) (B,&nbsp;C)</p>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
                     <ul class="plan-table__timely-updates">
                         <li><strong>Fall 2017:</strong> RVAP and WRAC facilitated two 25-minute breakout sessions in graduate student orientation, covering topics of bystander intervention, how to help a friend, and confidential resources
                         </li>
                         <li><strong>Spring 2017:</strong> The Graduate College has scheduled time in their fall orientation program for a new prevention education module, which is being developed by WRAC and RVAP</li>
                     </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>Expand faculty/staff sexual harassment prevention education by:
+        </div>
+
+    </div>
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+            <p>Expand faculty/staff sexual harassment prevention education by:
                     <ul>
                         <li>Including employees with appointments below 50% and undergraduate students in formal peer leadership roles (e.g., tutors) (5) (C)</li>
                         <li>Including more primary prevention strategies, as well as explaining the importance of creating an environment where sexist and crude gender harassment is not used, even if it does not violate university policy (5) (C)</li>
-                    </ul>
-                </td>
-                <td>
+                    </ul></p>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
                     <ul class="plan-table__timely-updates">
                         <li><strong>Fall 2017:</strong> A task group formed to identify employee appointment types to include in expansion of sexual harassment prevention education</li>
                         <li><strong>Fall 2017: </strong>New web-based prevention program for faculty and staff by EverFi was selected in collaboration with Iowa State University and the University of Northern Iowa</li>
                     </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Explore options and models for partnering with feeder high schools given evidence that prevention is more likely to be effective with students, developmentally, before college (2) (C)</p>
-                </td>
-                <td>
+        </div>
+
+    </div>
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+<p>Explore options and models for partnering with feeder high schools given evidence that prevention is more likely to be effective with students, developmentally, before college (2) (C)</p>
+            <p></p>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
                     <ul class="plan-table__timely-updates">
                         <li>No updates at this time.</li>
                     </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>Continue to engage and share prevention resources and strategies with community partners to help prevent incidents of sexual misconduct off campus (3) (C)</td>
-                <td>
+        </div>
+
+    </div>
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+            <p>Continue to engage and share prevention resources and strategies with community partners to help prevent incidents of sexual misconduct off campus (3) (C)</p>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
                     <ul class="plan-table__timely-updates">
                         <li><strong>Fall 2017:</strong> RVAP collaborated with partners in the community to offer a three-session course titled&nbsp;Advocating for a Safer Community&nbsp;to members of the Iowa City community</li>
                         <li><strong>Spring 2017:</strong> RVAP is training new staff to facilitate&nbsp;Raise the Bar&nbsp;workshops and reaching out to local bars to provide the workshop</li>
                         <li><strong>Summer 2017:</strong> RVAP collaborated with the Iowa Department of Public Health to host a listening session gauging community members' awareness of, and opinions about, sexual violence in Iowa. Representatives from UI Athletics, the Office of Equal Opportunity and Diversity, WRAC, OSMRC, SART, the SANE program, and the School of Social Work participated.</li>
                     </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>Work with Fraternity and Sorority Life staff and student leaders to implement procedures that create protective environments (e.g., improving safety and monitoring at events and creating social incentives for behavior) (2) (C)</td>
-                <td>
-                    <p>&nbsp;</p>
+        </div>
+
+    </div>
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+            <p>Work with Fraternity and Sorority Life staff and student leaders to implement procedures that create protective environments (e.g., improving safety and monitoring at events and creating social incentives for behavior) (2) (C)</p>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
                     <ul class="plan-table__timely-updates">
                         <li><strong>Fall 2017:</strong> The Interfraternity and Panhellenic Councils updated their bylaws to require that each chapter's mandatory in-house educationals include at least one event related to violence prevention</li>
                         <li><strong>Fall 2017:</strong> Fraternity and Sorority Life student leaders created a&nbsp;"Not In Our Community" video&nbsp;against sexual assault</li>
                         <li><strong>Summer 2017: </strong>FSL student leaders submitted recommendations to create protective environments to the Vice President for Student Life. Chapter leaders will report back their implementation of the recommendations in the fall.</li>
                         <li><strong>Spring 2017:</strong> The Vice President for Student Life appointed a committee of Fraternity and Sorority Life (FSL) student leaders to develop recommendations to create protective environments within FSL chapters</li>
                     </ul>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+        </div>
+
+    </div>
+    
 </div>
+
 <div class="plan-section__container">
+    <h3 class="plan-section__table-label">Intervention</h3>
     <div class="plan-section" id="intervention">
-        <h3 class="plan-section__header">Intervention</h3>
+        
         <p><strong>Goal:</strong> To expand existing programs, create new education opportunities for the campus community, and use comprehensive evaluation to maximize the effectiveness of all programming. This work is guided by the&nbsp;UI Comprehensive Education Model.</p>
     </div>
-    <h4 class="plan-section__table-label">Intervention Implementation and Updates</h4>
-    <table class="plan-table" cellspacing="1" cellpadding="1" border="1">
-        <tbody>
-            <tr>
-                <th>Implementation</th>
-                <th>Updates</th>
-            </tr>
-            <tr>
-                <td>Enhance education about resources on campus and in the community for students to ensure they know where to get help and where to make a report by: (12)(B)
+<div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+            <p>Enhance education about resources on campus and in the community for students to ensure they know where to get help and where to make a report by: (12)(B)
                     <ul>
                         <li>Providing a safety booklet in every residence hall room that highlights resources available on campus (2)</li>
                         <li>Updating crime alerts to include hyperlinks/images (11)</li>
                         <li>Increasing reminders about where to get help and where to report by exploring new communication methods to reach students and implementing messaging campaigns (9, 12) (B)</li>
                     </ul>
-                </td>
-                <td>
-                    <ul class="plan-table__timely-updates">
-                        <li><strong>Spring 2018:</strong> OSMRC began partnering with the Division of Student Life to utilize its social media channels to raise awareness about campus resources</li>
-                        <li><strong>Fall 2017</strong>: OSMRC implemented the website improvements suggested by the Callisto subcommittee, whose&nbsp;final recommendation&nbsp;was not to adopt Callisto</li>
-                        <li><strong>Summer 2017</strong>: A committee formed to review the online sexual assault reporting app&nbsp;Callisto</li>
-                        <li><strong>Fall 2016</strong>: UI Athletics added reporting and resource information to new student athlete orientation program</li>
-                        <li><strong>Fall 2016</strong>: Redesigned&nbsp;resource and reporting information in Success at Iowa course to ensure students know where to get help</li>
-                        <li><strong>Fall 2016:</strong> Department of Public Safety introduced the&nbsp;Hawk Watch app</li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>
+            </p>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
+            <ul class="plan-table__timely-updates">
+                <li><strong>Spring 2018:</strong> OSMRC began partnering with the Division of Student Life to utilize its social media channels to raise awareness about campus resources</li>
+                <li><strong>Fall 2017</strong>: OSMRC implemented the website improvements suggested by the Callisto subcommittee, whose&nbsp;final recommendation&nbsp;was not to adopt Callisto</li>
+                <li><strong>Summer 2017</strong>: A committee formed to review the online sexual assault reporting app&nbsp;Callisto</li>
+                <li><strong>Fall 2016</strong>: UI Athletics added reporting and resource information to new student athlete orientation program</li>
+                <li><strong>Fall 2016</strong>: Redesigned&nbsp;resource and reporting information in Success at Iowa course to ensure students know where to get help</li>
+                <li><strong>Fall 2016:</strong> Department of Public Safety introduced the&nbsp;Hawk Watch app</li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
                     <p>Provide training on responding effectively to disclosures to promote help-seeking behavior by:</p>
                     <ul>
                         <li>Increasing education programs for students/campus community on how to respond to a disclosure by a friend/peer (9)</li>
                         <li>Ensuring responsible employees or Academic Administrative Officers (A/AOs) can recognize and respond to a disclosure of sexual misconduct, dating violence, or stalking&nbsp;</li>
                     </ul>
-                </td>
-                <td>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
                     <ul class="plan-table__timely-updates">
                         <li><strong>Spring 2018:</strong> OSMRC began partnering with the Division of Student Life to utilize its social media channels to raise awareness about campus resources</li>
                         <li><strong>Fall 2017</strong>: OSMRC implemented the website improvements suggested by the Callisto subcommittee, whose&nbsp;final recommendation&nbsp;was not to adopt Callisto</li>
@@ -280,122 +346,151 @@
                         <li><strong>Fall 2016</strong>: Redesigned&nbsp;resource and reporting information in Success at Iowa course to ensure students know where to get help</li>
                         <li><strong>Fall 2016:</strong> Department of Public Safety introduced the&nbsp;Hawk Watch app</li>
                     </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Implement an online refresher course on sexual misconduct in the first semester for incoming undergraduate students as a follow-up to the required Success at Iowa course taken before coming to campus (2)
+        </div>
+
+    </div>
+
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+                   <p>Implement an online refresher course on sexual misconduct in the first semester for incoming undergraduate students as a follow-up to the required Success at Iowa course taken before coming to campus (2)
                         <br> &nbsp;
                     </p>
-                </td>
-                <td>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
+    
                     <ul class="plan-table__timely-updates">
                         <li><strong>Summer 2017:</strong> Refresher course implemented as a require component for all incoming fall 2017 graduate and professional students</li>
                         <li><strong>Fall 2016:</strong> Refresher course made available to UI community via the&nbsp;Ending Violence at Iowasite through the end of the fall 2016 semester</li>
                         <li><strong>Fall 2016:</strong> Refresher course implemented as a required component of the Success at Iowa course for all incoming Spring 2017 undergraduate students</li>
                     </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>Develop a new module for orientation programs for incoming graduate and professional students to increase awareness of resources and reporting options, as well as prevention education (5, 12) (B,&nbsp;C)
-                </td>
-                <td>
+          
+        </div>
+
+    </div>
+     <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+<p>Develop a new module for orientation programs for incoming graduate and professional students to increase awareness of resources and reporting options, as well as prevention education (5, 12) (B,&nbsp;C)</p>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
                     <ul class="plan-table__timely-updates">
                         <li><strong>Fall 2017:</strong> RVAP and WRAC facilitated two 25-minute breakout sessions in graduate student orientation, covering topics of bystander intervention, how to help a friend, and confidential resources
                         </li>
                         <li><strong>Spring 2017:</strong> The Graduate College has scheduled time in their fall orientation program for a new prevention education module, which is being developed by WRAC and RVAP</li>
                     </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>Expand faculty/staff sexual harassment prevention education by:
+        </div>
+
+    </div>
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+            <p>Expand faculty/staff sexual harassment prevention education by:
                     <ul>
                         <li>Including employees with appointments below 50% and undergraduate students in formal peer leadership roles (e.g., tutors) (5) (C)</li>
                         <li>Including more primary prevention strategies, as well as explaining the importance of creating an environment where sexist and crude gender harassment is not used, even if it does not violate university policy (5) (C)</li>
-                    </ul>
-                </td>
-                <td>
+                    </ul></p>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
                     <ul class="plan-table__timely-updates">
                         <li><strong>Fall 2017:</strong> A task group formed to identify employee appointment types to include in expansion of sexual harassment prevention education</li>
                         <li><strong>Fall 2017: </strong>New web-based prevention program for faculty and staff by EverFi was selected in collaboration with Iowa State University and the University of Northern Iowa</li>
                     </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Explore options and models for partnering with feeder high schools given evidence that prevention is more likely to be effective with students, developmentally, before college (2) (C)</p>
-                </td>
-                <td>
-                    <ul>
+        </div>
+
+    </div>
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+<p>Explore options and models for partnering with feeder high schools given evidence that prevention is more likely to be effective with students, developmentally, before college (2) (C)</p>
+            <p></p>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
+                    <ul class="plan-table__timely-updates">
                         <li>No updates at this time.</li>
                     </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>Continue to engage and share prevention resources and strategies with community partners to help prevent incidents of sexual misconduct off campus (3) (C)</td>
-                <td>
+        </div>
+
+    </div>
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+            <p>Continue to engage and share prevention resources and strategies with community partners to help prevent incidents of sexual misconduct off campus (3) (C)</p>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
                     <ul class="plan-table__timely-updates">
                         <li><strong>Fall 2017:</strong> RVAP collaborated with partners in the community to offer a three-session course titled&nbsp;Advocating for a Safer Community&nbsp;to members of the Iowa City community</li>
                         <li><strong>Spring 2017:</strong> RVAP is training new staff to facilitate&nbsp;Raise the Bar&nbsp;workshops and reaching out to local bars to provide the workshop</li>
                         <li><strong>Summer 2017:</strong> RVAP collaborated with the Iowa Department of Public Health to host a listening session gauging community members' awareness of, and opinions about, sexual violence in Iowa. Representatives from UI Athletics, the Office of Equal Opportunity and Diversity, WRAC, OSMRC, SART, the SANE program, and the School of Social Work participated.</li>
                     </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>Work with Fraternity and Sorority Life staff and student leaders to implement procedures that create protective environments (e.g., improving safety and monitoring at events and creating social incentives for behavior) (2) (C)</td>
-                <td>
-                    <p>&nbsp;</p>
+        </div>
+
+    </div>
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+            <p>Work with Fraternity and Sorority Life staff and student leaders to implement procedures that create protective environments (e.g., improving safety and monitoring at events and creating social incentives for behavior) (2) (C)</p>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
                     <ul class="plan-table__timely-updates">
                         <li><strong>Fall 2017:</strong> The Interfraternity and Panhellenic Councils updated their bylaws to require that each chapter's mandatory in-house educationals include at least one event related to violence prevention</li>
                         <li><strong>Fall 2017:</strong> Fraternity and Sorority Life student leaders created a&nbsp;"Not In Our Community" video&nbsp;against sexual assault</li>
                         <li><strong>Summer 2017: </strong>FSL student leaders submitted recommendations to create protective environments to the Vice President for Student Life. Chapter leaders will report back their implementation of the recommendations in the fall.</li>
                         <li><strong>Spring 2017:</strong> The Vice President for Student Life appointed a committee of Fraternity and Sorority Life (FSL) student leaders to develop recommendations to create protective environments within FSL chapters</li>
                     </ul>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+        </div>
+
+    </div>
+ 
 </div>
 <div class="plan-section__container">
+    <h3 class="plan-section__table-label">Policy</h3>
     <div class="plan-section" id="policy">
-        <h3 class="plan-section__header">Policy</h3>
+        
         <p><strong>Goal:</strong> To expand existing programs, create new education opportunities for the campus community, and use comprehensive evaluation to maximize the effectiveness of all programming. This work is guided by the&nbsp;UI Comprehensive Education Model.</p>
     </div>
-    <h4 class="plan-section__table-label">Policy Implementation and Updates</h4>
-    <table class="plan-table" cellspacing="1" cellpadding="1" border="1">
-        <tbody>
-            <tr>
-                <th>Implementation</th>
-                <th>Updates</th>
-            </tr>
-            <tr>
-                <td>Enhance education about resources on campus and in the community for students to ensure they know where to get help and where to make a report by: (12)(B)
+  <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+            <p>Enhance education about resources on campus and in the community for students to ensure they know where to get help and where to make a report by: (12)(B)
                     <ul>
                         <li>Providing a safety booklet in every residence hall room that highlights resources available on campus (2)</li>
                         <li>Updating crime alerts to include hyperlinks/images (11)</li>
                         <li>Increasing reminders about where to get help and where to report by exploring new communication methods to reach students and implementing messaging campaigns (9, 12) (B)</li>
                     </ul>
-                </td>
-                <td>
-                    <ul class="plan-table__timely-updates">
-                        <li><strong>Spring 2018:</strong> OSMRC began partnering with the Division of Student Life to utilize its social media channels to raise awareness about campus resources</li>
-                        <li><strong>Fall 2017</strong>: OSMRC implemented the website improvements suggested by the Callisto subcommittee, whose&nbsp;final recommendation&nbsp;was not to adopt Callisto</li>
-                        <li><strong>Summer 2017</strong>: A committee formed to review the online sexual assault reporting app&nbsp;Callisto</li>
-                        <li><strong>Fall 2016</strong>: UI Athletics added reporting and resource information to new student athlete orientation program</li>
-                        <li><strong>Fall 2016</strong>: Redesigned&nbsp;resource and reporting information in Success at Iowa course to ensure students know where to get help</li>
-                        <li><strong>Fall 2016:</strong> Department of Public Safety introduced the&nbsp;Hawk Watch app</li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>
+            </p>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
+            <ul class="plan-table__timely-updates">
+                <li><strong>Spring 2018:</strong> OSMRC began partnering with the Division of Student Life to utilize its social media channels to raise awareness about campus resources</li>
+                <li><strong>Fall 2017</strong>: OSMRC implemented the website improvements suggested by the Callisto subcommittee, whose&nbsp;final recommendation&nbsp;was not to adopt Callisto</li>
+                <li><strong>Summer 2017</strong>: A committee formed to review the online sexual assault reporting app&nbsp;Callisto</li>
+                <li><strong>Fall 2016</strong>: UI Athletics added reporting and resource information to new student athlete orientation program</li>
+                <li><strong>Fall 2016</strong>: Redesigned&nbsp;resource and reporting information in Success at Iowa course to ensure students know where to get help</li>
+                <li><strong>Fall 2016:</strong> Department of Public Safety introduced the&nbsp;Hawk Watch app</li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
                     <p>Provide training on responding effectively to disclosures to promote help-seeking behavior by:</p>
                     <ul>
                         <li>Increasing education programs for students/campus community on how to respond to a disclosure by a friend/peer (9)</li>
                         <li>Ensuring responsible employees or Academic Administrative Officers (A/AOs) can recognize and respond to a disclosure of sexual misconduct, dating violence, or stalking&nbsp;</li>
                     </ul>
-                </td>
-                <td>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
                     <ul class="plan-table__timely-updates">
                         <li><strong>Spring 2018:</strong> OSMRC began partnering with the Division of Student Life to utilize its social media channels to raise awareness about campus resources</li>
                         <li><strong>Fall 2017</strong>: OSMRC implemented the website improvements suggested by the Callisto subcommittee, whose&nbsp;final recommendation&nbsp;was not to adopt Callisto</li>
@@ -404,81 +499,108 @@
                         <li><strong>Fall 2016</strong>: Redesigned&nbsp;resource and reporting information in Success at Iowa course to ensure students know where to get help</li>
                         <li><strong>Fall 2016:</strong> Department of Public Safety introduced the&nbsp;Hawk Watch app</li>
                     </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Implement an online refresher course on sexual misconduct in the first semester for incoming undergraduate students as a follow-up to the required Success at Iowa course taken before coming to campus (2)
+        </div>
+
+    </div>
+
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+                   <p>Implement an online refresher course on sexual misconduct in the first semester for incoming undergraduate students as a follow-up to the required Success at Iowa course taken before coming to campus (2)
                         <br> &nbsp;
                     </p>
-                </td>
-                <td>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
+    
                     <ul class="plan-table__timely-updates">
                         <li><strong>Summer 2017:</strong> Refresher course implemented as a require component for all incoming fall 2017 graduate and professional students</li>
                         <li><strong>Fall 2016:</strong> Refresher course made available to UI community via the&nbsp;Ending Violence at Iowasite through the end of the fall 2016 semester</li>
                         <li><strong>Fall 2016:</strong> Refresher course implemented as a required component of the Success at Iowa course for all incoming Spring 2017 undergraduate students</li>
                     </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>Develop a new module for orientation programs for incoming graduate and professional students to increase awareness of resources and reporting options, as well as prevention education (5, 12) (B,&nbsp;C)
-                </td>
-                <td>
+          
+        </div>
+
+    </div>
+     <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+<p>Develop a new module for orientation programs for incoming graduate and professional students to increase awareness of resources and reporting options, as well as prevention education (5, 12) (B,&nbsp;C)</p>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
                     <ul class="plan-table__timely-updates">
                         <li><strong>Fall 2017:</strong> RVAP and WRAC facilitated two 25-minute breakout sessions in graduate student orientation, covering topics of bystander intervention, how to help a friend, and confidential resources
                         </li>
                         <li><strong>Spring 2017:</strong> The Graduate College has scheduled time in their fall orientation program for a new prevention education module, which is being developed by WRAC and RVAP</li>
                     </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>Expand faculty/staff sexual harassment prevention education by:
+        </div>
+
+    </div>
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+            <p>Expand faculty/staff sexual harassment prevention education by:
                     <ul>
                         <li>Including employees with appointments below 50% and undergraduate students in formal peer leadership roles (e.g., tutors) (5) (C)</li>
                         <li>Including more primary prevention strategies, as well as explaining the importance of creating an environment where sexist and crude gender harassment is not used, even if it does not violate university policy (5) (C)</li>
-                    </ul>
-                </td>
-                <td>
+                    </ul></p>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
                     <ul class="plan-table__timely-updates">
                         <li><strong>Fall 2017:</strong> A task group formed to identify employee appointment types to include in expansion of sexual harassment prevention education</li>
                         <li><strong>Fall 2017: </strong>New web-based prevention program for faculty and staff by EverFi was selected in collaboration with Iowa State University and the University of Northern Iowa</li>
                     </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p>Explore options and models for partnering with feeder high schools given evidence that prevention is more likely to be effective with students, developmentally, before college (2) (C)</p>
-                </td>
-                <td>
-                    <ul>
+        </div>
+
+    </div>
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+<p>Explore options and models for partnering with feeder high schools given evidence that prevention is more likely to be effective with students, developmentally, before college (2) (C)</p>
+            <p></p>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
+                    <ul class="plan-table__timely-updates">
                         <li>No updates at this time.</li>
                     </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>Continue to engage and share prevention resources and strategies with community partners to help prevent incidents of sexual misconduct off campus (3) (C)</td>
-                <td>
+        </div>
+
+    </div>
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+            <p>Continue to engage and share prevention resources and strategies with community partners to help prevent incidents of sexual misconduct off campus (3) (C)</p>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
                     <ul class="plan-table__timely-updates">
                         <li><strong>Fall 2017:</strong> RVAP collaborated with partners in the community to offer a three-session course titled&nbsp;Advocating for a Safer Community&nbsp;to members of the Iowa City community</li>
                         <li><strong>Spring 2017:</strong> RVAP is training new staff to facilitate&nbsp;Raise the Bar&nbsp;workshops and reaching out to local bars to provide the workshop</li>
                         <li><strong>Summer 2017:</strong> RVAP collaborated with the Iowa Department of Public Health to host a listening session gauging community members' awareness of, and opinions about, sexual violence in Iowa. Representatives from UI Athletics, the Office of Equal Opportunity and Diversity, WRAC, OSMRC, SART, the SANE program, and the School of Social Work participated.</li>
                     </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>Work with Fraternity and Sorority Life staff and student leaders to implement procedures that create protective environments (e.g., improving safety and monitoring at events and creating social incentives for behavior) (2) (C)</td>
-                <td>
-                    <p>&nbsp;</p>
+        </div>
+
+    </div>
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Implementation</h4>
+            <p>Work with Fraternity and Sorority Life staff and student leaders to implement procedures that create protective environments (e.g., improving safety and monitoring at events and creating social incentives for behavior) (2) (C)</p>
+        </div>
+        <div class="plan-table__column">
+             <h5>Updates</h5>
                     <ul class="plan-table__timely-updates">
                         <li><strong>Fall 2017:</strong> The Interfraternity and Panhellenic Councils updated their bylaws to require that each chapter's mandatory in-house educationals include at least one event related to violence prevention</li>
                         <li><strong>Fall 2017:</strong> Fraternity and Sorority Life student leaders created a&nbsp;"Not In Our Community" video&nbsp;against sexual assault</li>
                         <li><strong>Summer 2017: </strong>FSL student leaders submitted recommendations to create protective environments to the Vice President for Student Life. Chapter leaders will report back their implementation of the recommendations in the fall.</li>
                         <li><strong>Spring 2017:</strong> The Vice President for Student Life appointed a committee of Fraternity and Sorority Life (FSL) student leaders to develop recommendations to create protective environments within FSL chapters</li>
                     </ul>
-                </td>
-            </tr>
-        </tbody>
-    </table>
+        </div>
+
+    </div>  
+    
 </div>
 <div class="plan-section__container">
     <div class="plan-section" id="sources">
