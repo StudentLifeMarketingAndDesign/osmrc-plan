@@ -124,11 +124,56 @@ body{
 	margin:0 5px 0 -15px;
 	color: #52a271;
 }
+
+
+
+.history-table__container{
+    max-width: 800px;
+    margin: auto;
+}
+.history-table__update-list{
+    list-style-type: none;
+    padding-left: 20px;
+}
+.history-table__update-list li:before{
+    font-family: 'FontAwesome';
+    content:"";
+    margin:0 5px 0 -15px;
+    color: #52a271;
+}
+
+.history-table__update-heading{
+    display: inline;
+
+}
+@media only screen and (min-width: 768px) {
+    .history-table {
+        width: 100%;
+        display: flex;
+        padding: 15px;
+    }
+
+    .history-table__year-column{
+        flex: 20%;
+        padding: 10px;
+    }
+    .history-table__update-column{
+        flex: 80%;
+        padding: 10px;
+    }
+    .history-table__heading{
+        position: sticky;
+        position: -webkit-sticky;
+        top: 0;
+    }
+}
+
 /*--><!]]>*/
 </style>
 <div class="plan-sidebar">
     <h2>Table of Contents</h2>
     <ul class="plan-sidebar__nav" style="">
+        <li><a class="plan-sidebar__link" href="#history">History</a></li>
         <li><a class="plan-sidebar__link" href="#prevention-and-education">Prevention and Education</a></li>
         <li><a class="plan-sidebar__link" href="#intervention">Intervention</a></li>
         <li><a class="plan-sidebar__link" href="#policy">Policy</a></li>
@@ -142,6 +187,82 @@ body{
     <p>The&nbsp;University of Iowa Anti-Violence Coalition (AVC), made up of campus stakeholders and community partners, worked together to identify additional action items focusing on prevention and education, policy, and intervention. This new two-year plan is influenced by responses to the&nbsp;Speak Out Iowa campus climate survey&nbsp;(noted by numbers), evidence-informed efforts and practices (noted by letters), and input from members of the AVC and campus constituents.</p>
     <p>It’s on all of us to continue this important work.&nbsp;</p>
 </div>
+
+
+
+<div class="history-table__container">
+    <h3 class="plan-section__table-label">History</h3>
+    <div class="history-table">
+        <div class="history-table__year-column">
+            <h2 class="history-table__heading">2006</h2>
+        </div>
+        <div class="history-table__update-column">
+            <ul class="history-table__update-list">
+                <li>
+                    <h3 class="history-table__update-heading">First Campus Program Grant</h3>
+                    <p>$199,668, established CCRT, Implemented mandatory education for incoming students, trained judicial administrators, trained law enforcement, established a men's anti-violence council.</p>
+                </li>
+                <li><h3 class="history-table__update-heading">CCRT Created - UI Anti-violence Coalition</h3></li>
+            </ul>
+        </div>
+    </div>
+    <div class="history-table">
+        <div class="history-table__year-column">
+            <h2 class="history-table__heading">2007</h2>
+        </div>
+        <div class="history-table__update-column">
+            <ul class="history-table__update-list">
+                <li>
+                    <h3 class="history-table__update-heading">First Sexual Miscodunct &amp; Dating/Domestic Violence Training</h3>
+                    <p>DVIP, RVAP, and DOS collaborate on sexual misconduct &amp; dating/domestic violence training</p>
+                </li>
+                <li><h3 class="history-table__update-heading">CCRT Created - UI Anti-violence Coalition</h3></li>
+            </ul>
+        </div>    
+    </div>
+    <div class="history-table">
+        <div class="history-table__year-column">
+            <h2 class="history-table__heading">2008</h2>
+        </div>
+        <div class="history-table__update-column">
+            <ul class="history-table__update-list">
+                <li>
+                    <h3 class="history-table__update-heading">First Sexual Miscodunct Policy</h3>
+                    <p>DVIP, RVAP, and DOS collaborate on sexual misconduct &amp; dating/domestic violence training</p>
+                </li>
+            </ul>
+        </div>    
+    </div>
+    <div class="history-table">
+        <div class="history-table__year-column">
+            <h2 class="history-table__heading">2009</h2>
+        </div>
+        <div class="history-table__update-column">
+            <ul class="history-table__update-list">
+                <li>
+                    <h3 class="history-table__update-heading">Created Office of the Sexual Misconduct Response Coordinator</h3>
+                </li>
+            </ul>
+        </div>    
+    </div>
+    <div class="history-table">
+        <div class="history-table__year-column">
+            <h2 class="history-table__heading">2010</h2>
+        </div>
+        <div class="history-table__update-column">
+            <ul class="history-table__update-list">
+                <li>
+                    <h3 class="history-table__update-heading">Created Office of the Sexual Misconduct Response Coordinator</h3>
+                </li>
+            </ul>
+        </div>    
+    </div>
+</div>
+
+
+
+
+
 <div class="plan-section__container">
     <h3 class="plan-section__table-label">Prevention and Education</h3>
     <div class="plan-section" id="prevention-and-education">
