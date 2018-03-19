@@ -242,6 +242,12 @@ body{
                 <li>
                     <h3 class="history-table__update-heading">Created Office of the Sexual Misconduct Response Coordinator</h3>
                 </li>
+                <li>
+                    <h3 class="history-table__update-heading">Implemented new online education program</h3><p>RVAP manages new course, 99% compliance with the use of registration hold</p>
+                </li>
+                <li>
+                    <h3 class="history-table__update-heading">President requires all faculty &amp; staff 50% or greater to complete sexual harassment prevention training</h3>
+                </li>
             </ul>
         </div>    
     </div>
@@ -252,11 +258,40 @@ body{
         <div class="history-table__update-column">
             <ul class="history-table__update-list">
                 <li>
-                    <h3 class="history-table__update-heading">Created Office of the Sexual Misconduct Response Coordinator</h3>
+                    <h3 class="history-table__update-heading">Mandatory education for incoming graduate &amp; professional students</h3>
+                    <p>Course management moves to Student Health &amp; Wellness</p>
+                </li>
+                <li><h3 class="history-table__update-heading">Flagship continuation funding</h3>
+                    <p>Policy Review, develop law enforcement online training</p>
+                </li>
+                <li><h3 class="history-table__update-heading">Campus Education Subcommittee shifts focus to aligning &amp; coordinating</h3>
                 </li>
             </ul>
         </div>    
     </div>
+
+    <div class="history-table">
+        <div class="history-table__year-column">
+            <h2 class="history-table__heading">2011</h2>
+        </div>
+        <div class="history-table__update-column">
+            <ul class="history-table__update-list">
+                <li>
+                    <h3 class="history-table__update-heading">Second Campus Program Grant</h3>
+                    <p>$300,000 Strengthen Bystander intervention, stalking policy, law enforcement, judicial, forensic investigations</p>
+                </li>
+                <li><h3 class="history-table__update-heading">Strengthen victim advocacy resources</h3>
+                    <p>Contract with DVIP</p>
+                </li>
+                <li><h3 class="history-table__update-heading">Bystander Education Included in OnIowa!</h3>
+                    <p>Orientation includes a bystander workshop on dating violence</p>
+                </li>
+                <li><h3 class="history-table__update-heading">Curriculum Infusion Nursing/Rhetoric</h3>
+                </li>
+            </ul>
+        </div>    
+    </div>
+
 </div>
 
 
