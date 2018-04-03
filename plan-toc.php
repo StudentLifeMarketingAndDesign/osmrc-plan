@@ -12,6 +12,7 @@
         <li><a class="plan-sidebar__link" href="speakout.php">Speak Out Iowa</a></li>
         <li><a class="plan-sidebar__link" href="history.php">History &amp; Timeline</a>
             <ul class="plan-sidebar__nav plan-sidebar__nav--second-level">
+                <li><a href="history.php" class="plan-sidebar__link">2006 - 2014</a></li>
                 <li><a href="six-point-plan.php" class="plan-sidebar__link">Six Point Plan</a></li>
                 <li><a href="2016-plan.php" class="plan-sidebar__link">Fall 2016 - Spring 2018</a></li>
             </ul>
