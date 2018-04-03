@@ -4,13 +4,13 @@
 <?php include("plan-toc.php") ?>
 
 <div class="plan-intro">
-    <h2>Current Plan (Spring 2018 - Fall 2021)</h2>
+    <h2>The University of Iowa Anti-Violence Plan
+for sexual misconduct, dating violence, and stalking
+Fall 2016 - Spring 2018</h2>
     <p>The University of Iowa has a committed team working to prevent sexual misconduct, dating violence, and stalking; provide support to survivors; and hold offenders accountable.</p>
     <p>The UI strives to maintain a safe and respectful environment, which requires campus-wide support and continuous effort. Through collaborative efforts, including the&nbsp;Six Point Plan to Combat Sexual Assault, we have made measurable progress, but there is more work to be done.</p>
     <p>The&nbsp;University of Iowa Anti-Violence Coalition (AVC), made up of campus stakeholders and community partners, worked together to identify additional action items focusing on prevention and education, policy, and intervention. This new two-year plan is influenced by responses to the&nbsp;Speak Out Iowa campus climate survey&nbsp;(noted by numbers), evidence-informed efforts and practices (noted by letters), and input from members of the AVC and campus constituents.</p>
     <p>It’s on all of us to continue this important work.&nbsp;</p>
-    <h3>History</h3>
-    <p><a href="history.php">View history &amp; timeline</a></p>
 </div>
 
 <div class="plan-section__container">
