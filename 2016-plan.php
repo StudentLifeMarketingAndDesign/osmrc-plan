@@ -8,8 +8,8 @@
 for sexual misconduct, dating violence, and stalking
 Fall 2016 - Spring 2018</h2>
     <p>The University of Iowa has a committed team working to prevent sexual misconduct, dating violence, and stalking; provide support to survivors; and hold offenders accountable.</p>
-    <p>The UI strives to maintain a safe and respectful environment, which requires campus-wide support and continuous effort. Through collaborative efforts, including the&nbsp;Six Point Plan to Combat Sexual Assault, we have made measurable progress, but there is more work to be done.</p>
-    <p>The&nbsp;University of Iowa Anti-Violence Coalition (AVC), made up of campus stakeholders and community partners, worked together to identify additional action items focusing on prevention and education, policy, and intervention. This new two-year plan is influenced by responses to the&nbsp;Speak Out Iowa campus climate survey&nbsp;(noted by numbers), evidence-informed efforts and practices (noted by letters), and input from members of the AVC and campus constituents.</p>
+    <p>The UI strives to maintain a safe and respectful environment, which requires campus-wide support and continuous effort. Through collaborative efforts, including the&nbsp;<a href="https://president.uiowa.edu/six-point-plan">Six Point Plan to Combat Sexual Assault</a>, we have made measurable progress, but there is more work to be done.</p>
+    <p>The&nbsp;<a href="https://osmrc.uiowa.edu/anti-violence-coalition">University of Iowa Anti-Violence Coalition (AVC)</a>, made up of campus stakeholders and community partners, worked together to identify additional action items focusing on prevention and education, policy, and intervention. This new two-year plan is influenced by responses to the&nbsp;<a href="https://speakout.uiowa.edu/">Speak Out Iowa campus climate survey</a>&nbsp;(noted by numbers), evidence-informed efforts and practices (noted by letters), and input from members of the AVC and campus constituents.</p>
     <p>It’s on all of us to continue this important work.&nbsp;</p>
 </div>
 
@@ -17,7 +17,7 @@ Fall 2016 - Spring 2018</h2>
     <h3 class="plan-section__table-label">Prevention and Education</h3>
     <div class="plan-section" id="prevention-and-education">
         
-        <p><strong>Goal:</strong> To expand existing programs, create new education opportunities for the campus community, and use comprehensive evaluation to maximize the effectiveness of all programming. This work is guided by the&nbsp;UI Comprehensive Education Model.</p>
+        <p><strong>Goal:</strong> To expand existing programs, create new education opportunities for the campus community, and use comprehensive evaluation to maximize the effectiveness of all programming. This work is guided by the&nbsp;<a href="https://endingviolence.uiowa.edu/assets/Uploads/Comprehensive-Education-Model.pdf">UI Comprehensive Education Model</a>.</p>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
@@ -30,7 +30,7 @@ Fall 2016 - Spring 2018</h2>
             <ul class="plan-table__timely-updates">
                 <li><strong>Summer 2017:</strong> Refresher course implemented as a require component for all incoming fall 2017 graduate and professional students</li>
                 <li><strong>Fall 2016:</strong> Refresher course implemented as a required component of the Success at Iowa course for all incoming Spring 2017 undergraduate students</li>
-                <li><strong>Fall 2016:</strong> Refresher course made available to UI community via the Ending Violence at Iowa site through the end of the fall 2016 semester</li>
+                <li><strong>Fall 2016:</strong> Refresher course made available to UI community via the <a href="https://endingviolence.uiowa.edu/">Ending Violence at Iowa</a> site through the end of the fall 2016 semester</li>
             </ul>
         </div>
 
@@ -39,7 +39,7 @@ Fall 2016 - Spring 2018</h2>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Develop a new module for orientation programs for incoming graduate and professional students to increase awareness of resources and reporting options, as well as prevention education (5, 12) (B, C)</p>
+            <p>Develop a new module for orientation programs for incoming graduate and professional students to increase awareness of resources and reporting options, as well as prevention education (5, 12) (<a href="#SourceB">B</a>, <a href="#SourceC">C</a>)</p>
         </div>
         <div class="plan-table__column">
             <h5>Updates</h5>
@@ -54,8 +54,8 @@ Fall 2016 - Spring 2018</h2>
             <h4>Implementation</h4>
             <p>Expand faculty/staff sexual harassment prevention education by:</p>
             <ul>
-                <li>Including employees with appointments below 50% and undergraduate students in formal peer leadership roles (e.g., tutors) (5) (C)</li>
-                <li>Including more primary prevention strategies, as well as explaining the importance of creating an environment where sexist and crude gender harassment is not used, even if it does not violate university policy (5) (C)</li>
+                <li>Including employees with appointments below 50% and undergraduate students in formal peer leadership roles (e.g., tutors) (5) (<a href="#SourceC">C</a>)</li>
+                <li>Including more primary prevention strategies, as well as explaining the importance of creating an environment where sexist and crude gender harassment is not used, even if it does not violate university policy (5) (<a href="#SourceC">C</a>)</li>
         </div>
         <div class="plan-table__column">
             <h5>Updates</h5>
@@ -68,7 +68,7 @@ Fall 2016 - Spring 2018</h2>
      <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Explore options and models for partnering with feeder high schools given evidence that prevention is more likely to be effective with students, developmentally, before college (2) (C)</p>
+            <p>Explore options and models for partnering with feeder high schools given evidence that prevention is more likely to be effective with students, developmentally, before college (2) (<a href="#SourceC">C</a>)</p>
         </div>
         <div class="plan-table__column">
             <h5>Updates</h5>
@@ -80,7 +80,7 @@ Fall 2016 - Spring 2018</h2>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Continue to engage and share prevention resources and strategies with community partners to help prevent incidents of sexual misconduct off campus (3) (C)</p>
+            <p>Continue to engage and share prevention resources and strategies with community partners to help prevent incidents of sexual misconduct off campus (3) (<a href="#SourceC">C</a>)</p>
         </div>
         <div class="plan-table__column">
             <h5>Updates</h5>
@@ -95,7 +95,7 @@ Fall 2016 - Spring 2018</h2>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-<p>Explore options and models for partnering with feeder high schools given evidence that prevention is more likely to be effective with students, developmentally, before college (2) (C)</p>
+<p>Explore options and models for partnering with feeder high schools given evidence that prevention is more likely to be effective with students, developmentally, before college (2) (<a href="#SourceC">C</a>)</p>
             <p></p>
         </div>
         <div class="plan-table__column">
@@ -109,7 +109,7 @@ Fall 2016 - Spring 2018</h2>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Continue to engage and share prevention resources and strategies with community partners to help prevent incidents of sexual misconduct off campus (3) (C)</p>
+            <p>Continue to engage and share prevention resources and strategies with community partners to help prevent incidents of sexual misconduct off campus (3) (<a href="#SourceC">C</a>)</p>
         </div>
         <div class="plan-table__column">
             <h5>Updates</h5>
@@ -124,7 +124,7 @@ Fall 2016 - Spring 2018</h2>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Work with Fraternity and Sorority Life staff and student leaders to implement procedures that create protective environments (e.g., improving safety and monitoring at events and creating social incentives for behavior) (2) (C)</p>
+            <p>Work with Fraternity and Sorority Life staff and student leaders to implement procedures that create protective environments (e.g., improving safety and monitoring at events and creating social incentives for behavior) (2) (<a href="#SourceC">C</a>)</p>
         </div>
         <div class="plan-table__column">
             <h5>Updates</h5>
@@ -139,7 +139,7 @@ Fall 2016 - Spring 2018</h2>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Continue to develop and implement targeted education for and about specific populations identified at high risk for victimization (e.g., international students, LGBT community, etc.) (H)</p>
+            <p>Continue to develop and implement targeted education for and about specific populations identified at high risk for victimization (e.g., international students, LGBT community, etc.) (<a href="#SourceH">H</a>)</p>
         </div>
         <div class="plan-table__column">
             <h5>Updates</h5>
@@ -159,7 +159,7 @@ Fall 2016 - Spring 2018</h2>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Increase messaging to parents about policies, procedures, resources, and how to respond to a disclosure (D)</p>
+            <p>Increase messaging to parents about policies, procedures, resources, and how to respond to a disclosure (<a href="#SourceD">D</a>)</p>
         </div>
         <div class="plan-table__column">
             <h5>Updates</h5>
@@ -171,7 +171,7 @@ Fall 2016 - Spring 2018</h2>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Work with Fraternity and Sorority Life staff and student leaders to implement procedures that create protective environments (e.g., improving safety and monitoring at events and creating social incentives for behavior) (2) (C)</p>
+            <p>Work with Fraternity and Sorority Life staff and student leaders to implement procedures that create protective environments (e.g., improving safety and monitoring at events and creating social incentives for behavior) (2) (<a href="#SourceC">C</a>)</p>
         </div>
         <div class="plan-table__column">
             <h5>Updates</h5>
@@ -186,7 +186,7 @@ Fall 2016 - Spring 2018</h2>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Develop and implement programming that promotes healthy masculinity across campus, specifically engaging groups where students who identify as men come together (C)</p>
+            <p>Develop and implement programming that promotes healthy masculinity across campus, specifically engaging groups where students who identify as men come together (<a href="#SourceC">C</a>)</p>
         </div>
         <div class="plan-table__column">
             <h5>Updates</h5>
@@ -199,7 +199,7 @@ Fall 2016 - Spring 2018</h2>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Raise awareness about dating violence and stalking, including where to get help and how to report victimization (6,7) (B, H), by:</p>
+            <p>Raise awareness about dating violence and stalking, including where to get help and how to report victimization (6,7) (<a href="#SourceB">B</a>, <a href="#SourceH">H</a>), by:</p>
             <ul>
                 <li>Implementing a communications campaign (11)</li>
                 <li>Making sure existing programs have the resource information on stalking and dating violence readily accessible</li>
@@ -210,14 +210,14 @@ Fall 2016 - Spring 2018</h2>
             <ul class="plan-table__timely-updates">
                 <li><strong>Fall 2017:</strong> L.E.A.P. (Lead Empower Advocate Prevent) members implemented an awareness-raising campaign developed by representatives from WRAC, RVAP, UISG, the Student Advisory Committee on Sexual Misconduct, DVIP, and Monsoon United Asian Women of Iowa for Domestic Violence Awareness Month in October</li>
                 <li><strong>Summer 2017:</strong> Prevention providers at RVAP and WRAC made updates to program curricula following a review of existing programming for content related to stalking and dating violence</li>
-                <li><strong>Spring 2017:</strong> An awareness-raising campaign to increase understanding about stalking and where to get help was implemented in residence halls, the IMU, the CRWC, academic buildings, and on social media. Assessment data was collected to evaluate effectiveness.</li>
+                <li><strong>Spring 2017:</strong> An <a href="https://endingviolence.uiowa.edu/e/campaigns/">awareness-raising campaign</a> to increase understanding about stalking and where to get help was implemented in residence halls, the IMU, the CRWC, academic buildings, and on social media. <a href="https://endingviolence.uiowa.edu/assets/Uploads/Stalking-Awareness-Campaign-Report.pdf">Assessment data</a> was collected to evaluate effectiveness.</li>
             </ul>
         </div>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Implement Enhanced Assess, Acknowledge, Act (EAAA) sexual assault resistance education program (1) (C), including content on:</p>
+            <p>Implement Enhanced Assess, Acknowledge, Act (EAAA) sexual assault resistance education program (1) (<a href="#SourceC">C</a>), including content on:</p>
             <ul>
                 <li>The role of alcohol (3)</li>
                 <li>Verbal and physical defense (1, 8)</li>
@@ -227,7 +227,7 @@ Fall 2016 - Spring 2018</h2>
         <div class="plan-table__column">
             <h5>Updates</h5>
             <ul class="plan-table__timely-updates">
-                <li><strong>Fall 2017:</strong> University College implemented Flip the Script, a one-credit-hour course based on the EAAA curriculum</li>
+                <li><strong>Fall 2017:</strong> University College implemented <a href="https://endingviolence.uiowa.edu/flipthescript">Flip the Script</a>, a one-credit-hour course based on the EAAA curriculum</li>
                 <li><strong>Summer 2017:</strong> Two staff members participated in a EAAA train-the-trainer program in preparation to implement the program</li>
             </ul>
         </div>
@@ -241,14 +241,14 @@ Fall 2016 - Spring 2018</h2>
             <h5>Updates</h5>
             <ul class="plan-table__timely-updates">
                 <li><strong>Summer 2017:</strong> Prevention providers at RVAP and WRAC made updates to program curricula following a review of existing programming for content related to acquaintance sexual assault and stranger sexual assault</li>
-                <li><strong>Fall 2016:</strong> NITE RIDE late-night transportation service expanded to be open to all genders</li>
+                <li><strong>Fall 2016:</strong> NITE RIDE late-night transportation <a href="https://now.uiowa.edu/2016/08/ui-expand-nite-ride-service">service expanded to be open to all genders</a></li>
             </ul>
         </div>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Ensure alcohol harm reduction efforts include: (3) (C, I)</p>
+            <p>Ensure alcohol harm reduction efforts include: (3) (<a href="#SourceC">C</a>, <a href="#SourceI">I</a>)</p>
             <ul>
                 <li>Recommendations for parents/guardians on talking with their student about alcohol (e.g., <em>A Parent Handbook for Talking with College Students About Alcohol</em>)</li>
                 <li>Environmental prevention strategies (e.g., alcohol control measures/local ordinances)</li>
@@ -259,20 +259,20 @@ Fall 2016 - Spring 2018</h2>
             <h5>Updates</h5>
             <ul class="plan-table__timely-updates">
                 <li><strong>Fall 2017:</strong> Assessment coordinator in the Office of the Vice President for Student Life increased collaboration with anti-violence initiatives by joining the Alcohol Harm Reduction Committee</li>
-                <li><strong>Summer 2017:</strong> The "Ensuring Student Success: Parents as Partners" orientation session was updated based on parent feedback</li>
+                <li><strong>Summer 2017:</strong> The "<a href="https://endingviolence.uiowa.edu/e/community-collaboration/">Ensuring Student Success: Parents as Partners</a>" orientation session was updated based on parent feedback</li>
                 <li><strong>Summer 2017:</strong> New "Guides for Off-Campus Living" were distributed by apartment owners to students picking up keys for off-campus apartments</li>
-                <li><strong>Summer 2017:</strong> The Partnership for Alcohol Safety expanded to include the Iowa City Downtown District Office's new "Nighttime Mayor"
+                <li><strong>Summer 2017:</strong> The <a href="https://vp.studentlife.uiowa.edu/priorities/partnership-for-alcohol-safety/">Partnership for Alcohol Safety</a> expanded to include the Iowa City Downtown District Office's new "Nighttime Mayor"
                 </li>
                 <li><strong>Summer 2017:</strong> The Fraternity and Sorority Alcohol Task Force was created and began meeting to develop a comprehensive plan for positive culture change within the Fraternity and Sorority community regarding alcohol use at social and philanthropic events</li>
-                <li><strong>Summer 2017:</strong> The Office of Admissions developed new My Friday Night videos to promote late night activities for new and prospective students</li>
-                <li><strong>Fall 2016:</strong> Alcohol Harm Reduction Committee committed to retaining the parent handbook, working collaboratively with the Anti-Violence Coalition on environmental prevention strategies, and ensuring there are late-night alternatives in the Alcohol Harm Reduction Plan and budget</li>
+                <li><strong>Summer 2017:</strong> The <a href="https://admissions.uiowa.edu/">Office of Admissions</a> developed new My Friday Night videos to promote late night activities for new and prospective students</li>
+                <li><strong>Fall 2016:</strong> <a href="https://vp.studentlife.uiowa.edu/initiatives/alcohol-harm-reduction/">Alcohol Harm Reduction Committee</a> committed to retaining the parent handbook, working collaboratively with the Anti-Violence Coalition on environmental prevention strategies, and ensuring there are late-night alternatives in the Alcohol Harm Reduction Plan and budget</li>
             </ul>
         </div>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Identify and explore ways to centralize the evaluation of all student prevention education programs through coordination in the Office of the Vice President for Student Life (B, E)</p>
+            <p>Identify and explore ways to centralize the evaluation of all student prevention education programs through coordination in the Office of the Vice President for Student Life (<a href="#SourceB">B</a>, <a href="#SourceE">E</a>)</p>
         </div>
         <div class="plan-table__column">
             <h5>Updates</h5>
@@ -291,59 +291,59 @@ Fall 2016 - Spring 2018</h2>
             <h5>Updates</h5>
             <ul class="plan-table__timely-updates">
                 <li><strong>Fall 2017:</strong> WRAC Certified Peer Educators facilitated a total of 34 workshops reaching 931 students in spring 2017. So far, Certified Peer Educators have facilitated 57 workshops reaching approximately 1,600 students in fall 2017.</li>
-                <li><strong>Spring 2017:</strong> Nine student peer educators were hired by WRAC and completed certification training to co-facilitate violence prevention workshops on campus. 22 workshops have been provided to date.</li>
+                <li><strong>Spring 2017:</strong> Nine student peer educators were hired by WRAC and completed certification training to co-facilitate <a href="https://endingviolence.uiowa.edu/workshops-and-training/">violence prevention workshops on campus</a>. 22 workshops have been provided to date.</li>
             </ul>
         </div>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Maximize attendance of bystander intervention training during On Iowa! by offering it earlier in the orientation schedule, and track attendance so students not in attendance can be identified for future programming (2) (C).</p>
+            <p>Maximize attendance of bystander intervention training during On Iowa! by offering it earlier in the orientation schedule, and track attendance so students not in attendance can be identified for future programming (2) (<a href="#SourceC">C</a>).</p>
         </div>
         <div class="plan-table__column">
             <h5>Updates</h5>
             <ul class="plan-table__timely-updates">
-                <li><strong>Fall 2016:</strong> The bystander intervention training in the Fall 2016 On Iowa! session was offered earlier in the week; commitment to retain schedule change</li>
+                <li><strong>Fall 2016:</strong> The bystander intervention training in the Fall 2016 On Iowa! session was <a href="https://now.uiowa.edu/2016/08/iowa-schedule-amended-improve-participation-bystander-intervention-training">offered earlier in the week</a>; commitment to retain schedule change</li>
             </ul>
         </div>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Partner with UISG to promote It’s On Us messaging campaign to expand its impact and ensure the content is aligned and linked to other prevention activities (1, 2) (C).</p>
+            <p>Partner with UISG to promote It’s On Us messaging campaign to expand its impact and ensure the content is aligned and linked to other prevention activities (1, 2) (<a href="#SourceC">C</a>).</p>
         </div>
         <div class="plan-table__column">
             <h5>Updates</h5>
             <ul class="plan-table__timely-updates">
-                <li><strong>Fall 2017:</strong> UISG held a town hall to discuss sexual assault, with participation from RVAP, OSMRC, and Monsoon United Asian Women of Iowa</li>
+                <li><strong>Fall 2017:</strong> UISG held a <a href="http://daily-iowan.com/2017/12/07/third-uisg-town-hall-discusses-sexual-assault/">town hall to discuss sexual assault</a>, with participation from RVAP, OSMRC, and Monsoon United Asian Women of Iowa</li>
                 <li><strong>Fall 2017:</strong> UISG implemented an It's On Us public awareness campaign welcome week.</li>
-                <li><strong>Fall 2016:</strong> UISG produced a new It's On Us Public Service Announcement.</li>
+                <li><strong>Fall 2016:</strong> UISG produced a new <a href="https://www.youtube.com/watch?v=PIqEwJHmNDo">It's On Us Public Service Announcement</a>.</li>
             </ul>
         </div>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Create a web resource connecting groups and individuals looking for education with the appropriate resources and opportunities (2) (C)</p>
+            <p>Create a web resource connecting groups and individuals looking for education with the appropriate resources and opportunities (2) (<a href="#SourceC">C</a>)</p>
         </div>
         <div class="plan-table__column">
             <h5>Updates</h5>
             <ul class="plan-table__timely-updates">
-                <li><strong>Summer 2017:</strong> The Ending Violence at Iowa site has had over 2,600 page views since going live</li>
-                <li><strong>Fall 2016:</strong> The Ending Violence at Iowa site went live</li>
+                <li><strong>Summer 2017:</strong> The <a href="https://endingviolence.uiowa.edu/">Ending Violence at Iowa</a> site has had over 2,600 page views since going live</li>
+                <li><strong>Fall 2016:</strong> The <a href="https://endingviolence.uiowa.edu/">Ending Violence at Iowa</a> site went live</li>
             </ul>
         </div>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Implement a strategy for continuous improvement by establishing learning benchmarks for all students in their first, second, third, and fourth years, and assessing outcomes (e.g., know when each student should receive what content and develop specific skills, recognizing that there’s an optimal progression in knowledge/skills development) (F, H)</p>
+            <p>Implement a strategy for continuous improvement by establishing learning benchmarks for all students in their first, second, third, and fourth years, and assessing outcomes (e.g., know when each student should receive what content and develop specific skills, recognizing that there’s an optimal progression in knowledge/skills development) (<a href="#SourceF">F</a>, <a href="#SourceH">H</a>)</p>
         </div>
         <div class="plan-table__column">
             <h5>Updates</h5>
             <ul class="plan-table__timely-updates">
-                <li><strong>Fall 2017:</strong> The second Speak Out Iowa survey went live October 24, 2017</li>
-                <li><strong>Spring 2017:</strong> The Campus Climate Survey Subcommittee is preparing for a second Speak Out Iowa survey to be implemented in fall 2017</li>
+                <li><strong>Fall 2017:</strong> The second <a href="https://speakout.uiowa.edu/">Speak Out Iowa survey</a> went live October 24, 2017</li>
+                <li><strong>Spring 2017:</strong> The Campus Climate Survey Subcommittee is preparing for a second <a href="https://speakout.uiowa.edu/">Speak Out Iowa</a> survey to be implemented in fall 2017</li>
             </ul>
         </div>
     </div>
@@ -359,11 +359,11 @@ Fall 2016 - Spring 2018</h2>
 <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Enhance education about resources on campus and in the community for students to ensure they know where to get help and where to make a report by: (12)(B)
+            <p>Enhance education about resources on campus and in the community for students to ensure they know where to get help and where to make a report by: (12)(<a href="#SourceB">B</a>)
                     <ul>
                         <li>Providing a safety booklet in every residence hall room that highlights resources available on campus (2)</li>
                         <li>Updating crime alerts to include hyperlinks/images (11)</li>
-                        <li>Increasing reminders about where to get help and where to report by exploring new communication methods to reach students and implementing messaging campaigns (9, 12) (B)</li>
+                        <li>Increasing reminders about where to get help and where to report by exploring new communication methods to reach students and implementing messaging campaigns (9, 12) (<a href="#SourceB">B</a>)</li>
                     </ul>
             </p>
         </div>
@@ -376,7 +376,7 @@ Fall 2016 - Spring 2018</h2>
                 <li><strong>Fall 2016</strong>: UI Athletics added reporting and resource information to new student athlete orientation program</li>
                 <li><strong>Fall 2016</strong>: Redesigned&nbsp;resource and reporting information in Success at Iowa course to ensure students know where to get help</li>
                 <li><strong>Fall 2016:</strong> Department of Public Safety introduced the&nbsp;Hawk Watch app</li>
-                <li><strong>Fall 2016:</strong> Safety booklet was provided in every residence hall room, sponsored by UI Parent and Family network; commitment to retain content in booklet for fall 2017</li>
+                <li><strong>Fall 2016:</strong> Safety booklet was provided in every residence hall room, sponsored by <a href="https://parents.uiowa.edu/">UI Parent and Family network</a>; commitment to retain content in booklet for fall 2017</li>
             </ul>
         </div>
 
@@ -388,7 +388,7 @@ Fall 2016 - Spring 2018</h2>
             <p>Provide training on responding effectively to disclosures to promote help-seeking behavior by:</p>
             <ul>
                 <li>Increasing education programs for students/campus community on how to respond to a disclosure by a friend/peer (9)</li>
-                <li>Ensuring responsible employees or Academic Administrative Officers (A/AOs) can recognize and respond to a disclosure of sexual misconduct, dating violence, or stalking.</li>
+                <li>Ensuring responsible employees or Academic Administrative Officers (A/AOs) can recognize and respond to a disclosure of sexual misconduct, dating violence, or stalking (5, 6 &nbsp; 7)(<a href="#SourceB">B</a>) .</li>
             </ul>
         </div>
         <div class="plan-table__column">
@@ -398,8 +398,8 @@ Fall 2016 - Spring 2018</h2>
                 <li><strong>Spring 2017:</strong> The Academic Advising Center hosted a webinar training and discussion with OSMRC to ensure advisors are prepared to respond to a disclosure and meet their reporting responsibilities</li>
                 <li><strong>Spring 2017:</strong> WRAC trained peer educators on how to respond to a disclosure by a peer through ongoing professional development meetings</li>
                 <li><strong>Spring 2017:</strong> "Responding to Disclosures as an A/AO" workshop offered by OSMRC and RVAP was requested by 4 departments and completed by 52 staff and faculty</li>
-                <li><strong>Fall 2016:</strong> "Responding to Disclosures as an A/AO" information guide was mailed to over 8,500 UI staff and faculty</li>
-                <li><strong>Fall 2016:</strong> "Responding to Disclosures as an A/AO" workshop offered by OSMRC and RVAP was requested by 3 departments and completed by 55 staff and faculty</li>
+                <li><strong>Fall 2016:</strong> "<a href="https://osmrc.stage.drupal.uiowa.edu/sites/osmrc.uiowa.edu/files/wysiwyg_uploads/Responding%20to%20Disclosures%20as%20an%20AAO.pdf">Responding to Disclosures as an A/AO</a>" information guide was mailed to over 8,500 UI staff and faculty</li>
+                <li><strong>Fall 2016:</strong> "<a href="https://osmrc.stage.drupal.uiowa.edu/sites/osmrc.uiowa.edu/files/wysiwyg_uploads/Responding%20to%20Disclosures%20as%20an%20AAO.pdf">Responding to Disclosures as an A/AO</a>" workshop offered by OSMRC and RVAP was requested by 3 departments and completed by 55 staff and faculty</li>
             </ul>
         </div>
     </div>
@@ -407,7 +407,7 @@ Fall 2016 - Spring 2018</h2>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-                <p>Collaborate with directors of graduate programs and professional school deans to cultivate a respectful and safe environment within their department or college (5) (E)
+                <p>Collaborate with directors of graduate programs and professional school deans to cultivate a respectful and safe environment within their department or college (5) (<a href="#SourceE">E</a>)
                     </p>
         </div>
         <div class="plan-table__column">
@@ -423,7 +423,7 @@ Fall 2016 - Spring 2018</h2>
      <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Advance investigative expertise for campus law enforcement and judicial administrators to increase accountability of persons committing sexual assault, dating violence, domestic violence, and stalking (4) (H):</p>
+            <p>Advance investigative expertise for campus law enforcement and judicial administrators to increase accountability of persons committing sexual assault, dating violence, domestic violence, and stalking (4) (<a href="#SourceH">H</a>):</p>
             <ul>
                 <li>Develop a sustainable education program for new officers and judicial administrators</li>
                 <li>Provide annual ongoing training to all officers and judicial administrators, ensuring training content is culturally inclusive and addresses needs of the LGBT community</li>
@@ -432,17 +432,17 @@ Fall 2016 - Spring 2018</h2>
         <div class="plan-table__column">
             <h5>Updates</h5>
             <ul class="plan-table__timely-updates">
-                <li><strong>Fall 2018:</strong> Anti-Violence Coalition in-service training on the ODARA Risk Assessment was made available to AVC members and others involved in the campus Title IX complaint process
+                <li><strong>Fall 2018:</strong> <a href="https://osmrc.uiowa.edu/anti-violence-coalition/service-training/2016-service-training">Anti-Violence Coalition in-service training</a> on the ODARA Risk Assessment was made available to AVC members and others involved in the campus Title IX complaint process
                 </li>
-                <li><strong>Fall 2017:</strong> Anti-Violence Coalition in-service training on working with international student survivors of sexual assault was made available to AVC members and others involved in the campus Title IX complaint process</li>
-                <li><strong>Fall 2017:</strong> Anti-Violence Coalition in-service training on working with victims was made available to AVC members and others involved in the campus Title IX complaint process</li>
+                <li><strong>Fall 2017:</strong> <a href="https://osmrc.uiowa.edu/anti-violence-coalition/service-training/2016-service-training">Anti-Violence Coalition in-service training</a> on working with international student survivors of sexual assault was made available to AVC members and others involved in the campus Title IX complaint process</li>
+                <li><strong>Fall 2017:</strong> <a href="https://osmrc.uiowa.edu/anti-violence-coalition/service-training/2016-service-training">Anti-Violence Coalition in-service training</a> on working with victims was made available to AVC members and others involved in the campus Title IX complaint process</li>
                 <li><strong>Fall 2017:</strong> OSMRC collaborated with RVAP, DVIP, the Office of the General Counsel, and a consultant to deliver a 12-hour, 3-module training for decision makers and judicial administrators on the dynamics of sexual assault and dating/domestic violence, UI policies and procedures, trauma-informed response, due process, and an investigative framework</li>
-                <li><strong>Summer 2017:</strong> Anti-Violence Coalition in-service training on campus stalking was made available to AVC members and others involved in the campus Title IX complaint process</li>
-                <li><strong>Summer 2017:</strong> Trainer Tom Tremblay was brought to campus to offer training to 61 campus and municipal law enforcement officers on trauma-informed sexual assault response and investigation techniques</li>
-                <li><strong>Spring 2017:</strong> Anti-Violence Coalition in-service training on non-consensual pornography was made available to AVC members and others involved in the campus Title IX complaint process
+                <li><strong>Summer 2017:</strong> <a href="https://osmrc.uiowa.edu/anti-violence-coalition/service-training/2016-service-training">Anti-Violence Coalition in-service training</a> on campus stalking was made available to AVC members and others involved in the campus Title IX complaint process</li>
+                <li><strong>Summer 2017:</strong> Trainer <a href="https://www.tomtremblayconsulting.com/">Tom Tremblay</a> was brought to campus to offer training to 61 campus and municipal law enforcement officers on trauma-informed sexual assault response and investigation techniques</li>
+                <li><strong>Spring 2017:</strong> <a href="https://osmrc.uiowa.edu/anti-violence-coalition/service-training/2016-service-training">Anti-Violence Coalition in-service training</a> on non-consensual pornography was made available to AVC members and others involved in the campus Title IX complaint process
                 </li>
-                <li><strong>Spring 2017:</strong> One DPS officer attended a trainer development workshop hosted by the National Center for Victims of Crime Stalking Resource Center</li>
-                <li><strong>Fall 2016:</strong> Anti-Violence Coalition in-service training on the neurobiology of trauma and trauma-informed victim interviewing techniques was made available to AVC members and others involved in the campus Title IX complaint process</li>
+                <li><strong>Spring 2017:</strong> One DPS officer attended a trainer development workshop hosted by the <a href="http://victimsofcrime.org/our-programs/stalking-resource-center">National Center for Victims of Crime Stalking Resource Center</a></li>
+                <li><strong>Fall 2016:</strong> <a href="https://osmrc.uiowa.edu/anti-violence-coalition/service-training/2016-service-training">Anti-Violence Coalition in-service training</a> on the neurobiology of trauma and trauma-informed victim interviewing techniques was made available to AVC members and others involved in the campus Title IX complaint process</li>
                 <li><strong>Fall 2016:</strong> Two Department of Public Safety (DPS) officers attended a trainer development workshop then developed and implemented a 5-hour training on gender-based violence for all DPS officers</li>
             </ul>
         </div>
@@ -453,15 +453,15 @@ Fall 2016 - Spring 2018</h2>
             <h4>Implementation</h4>
             <p>Strengthen resources for survivors::
             <ul>
-                <li>Raise awareness about the impact of adverse childhood experiences (ACE) to promote linkage with resources for reducing the risk of future trauma (4) (C)</li>
-                <li>Expand the capacity of RVAP to provide long-term therapeutic care and support group services (1, 2) (C)</li>
+                <li>Raise awareness about the impact of adverse childhood experiences (ACE) to promote linkage with resources for reducing the risk of future trauma (4) (<a href="#SourceC">C</a>)</li>
+                <li>Expand the capacity of RVAP to provide long-term therapeutic care and support group services (1, 2) (<a href="#SourceC">C</a>)</li>
             </ul>
             </p>
         </div>
         <div class="plan-table__column">
              <h5>Updates</h5>
                     <ul class="plan-table__timely-updates">
-                        <li><strong>Fall 2017:</strong> Dr. Teresa Judge-Ellis provided training on ACEs to AVC members and others involved in the campus Title IX complaint process</li>
+                        <li><strong>Fall 2017:</strong> Dr. Teresa Judge-Ellis provided <a href="https://osmrc.uiowa.edu/anti-violence-coalition/service-training">training on ACEs</a> to AVC members and others involved in the campus Title IX complaint process</li>
                         <li><strong>Spring 2017:</strong> RVAP is hiring for a new full-time campus advocate to provide advocacy services to members of the UI campus community, and plans to have this position filled prior to the end of the spring semester</li>
                         <li><strong>Fall 2016:</strong> RVAP added Eye Movement Desensitization Reprocessing (EMDR) as a resource to survivors</li>
                     </ul>
@@ -473,7 +473,7 @@ Fall 2016 - Spring 2018</h2>
             <h4>Implementation</h4>
 <p>Expand resources for people accused of sexual misconduct by:</p>
             <ul>
-                <li>Creating student judicial process guidance for those accused (G)</li>
+                <li>Creating student judicial process guidance for those accused (<a href="#SourceG">G</a>)</li>
                 <li>Increasing training for senior human resource representatives and associate deans on how to have effective conversations that motivate behavioral change when facilitating an informal sexual harassment resolution (5)</li>
             </ul>
         </div>
@@ -491,7 +491,7 @@ Fall 2016 - Spring 2018</h2>
             <p>Expand resources for people found responsible for a policy violation to prevent reoccurrence and ensure fairness:</p>
             <ul>
                 <li>Ensure an alcohol or drug assessment is required as a sanction when the person found responsible was using alcohol or drugs during an incident of sexual misconduct, dating violence, or stalking (3))</li>
-                <li>Implement a research-informed educational program for students who are found responsible for sexual misconduct, dating violence, or stalking to prevent reoccurrence (H)</li>
+                <li>Implement a research-informed educational program for students who are found responsible for sexual misconduct, dating violence, or stalking to prevent reoccurrence (<a href="#SourceH">H</a>)</li>
             </ul>
         </div>
         <div class="plan-table__column">
@@ -506,7 +506,7 @@ Fall 2016 - Spring 2018</h2>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Engage with community partners to ensure coordinated responses by establishing a memorandum of understanding with local law enforcement agencies to complement the county guidelines for investigating sex crimes (J)</p>
+            <p>Engage with community partners to ensure coordinated responses by establishing a memorandum of understanding with local law enforcement agencies to complement the county guidelines for investigating sex crimes (<a href="#SourceJ">J</a>)</p>
         </div>
         <div class="plan-table__column">
              <h5>Updates</h5>
@@ -527,7 +527,7 @@ Fall 2016 - Spring 2018</h2>
   <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
             <h4>Implementation</h4>
-            <p>Streamline and align existing civil rights policies and procedures while exploring the feasibility of merging them into one policy (A)
+            <p>Streamline and align existing civil rights policies and procedures while exploring the feasibility of merging them into one policy (<a href="#SourceA">A</a>)
             </p>
         </div>
         <div class="plan-table__column">
@@ -547,7 +547,7 @@ Fall 2016 - Spring 2018</h2>
         <div class="plan-table__column">
             <h5>Updates</h5>
             <ul class="plan-table__timely-updates">
-                <li><strong>Summer 2016:</strong> Based on input from a student petition, the Office of the Dean of Students updated the Code of Student Life to specifically reference that violations of the Sexual Misconduct, Dating/Domestic Violence, or Stalking Involving Studnets policy are prohibited</li>
+                <li><strong>Summer 2016:</strong> Based on input from a student petition, the Office of the Dean of Students updated the <a href="https://dos.uiowa.edu/policies/code-of-student-life-16-17/">Code of Student Life</a> to specifically reference that violations of the <a href="https://opsmanual.uiowa.edu/students/sexual-misconduct-datingdomestic-violence-or-stalking-involving-students">Sexual Misconduct, Dating/Domestic Violence, or Stalking Involving Studnets</a> policy are prohibited</li>
                 <li><strong>Fall 2016:</strong> The Student Advisory Committee on Sexual Misconduct held roundtable discussions to gather student feedback on the Speak Out survey and the Anti-Violence Plan</li>
             </ul>
         </div>
@@ -576,16 +576,16 @@ Fall 2016 - Spring 2018</h2>
             <p>Develop explicit campus policy education programs and tools to increase knowledge about how policies are applied by:</p>
             <ul>
                 <li>Broadening publication of aggregate response and investigation outcomes data, including sanctions imposed, related to sexual misconduct, dating violence, and stalking to increase transparency (10)</li>
-                <li>Continuing to build on students’ favorable perception of how the UI would respond to a student reporting an incident of sexual misconduct, by increasing knowledge on how sexual misconduct policies and procedures are applied (10) (B)</li>
+                <li>Continuing to build on students’ favorable perception of how the UI would respond to a student reporting an incident of sexual misconduct, by increasing knowledge on how sexual misconduct policies and procedures are applied (10) (<a href="#SourceB">B</a>)</li>
             </ul>
         </div>
         <div class="plan-table__column">
              <h5>Updates</h5>
                     <ul class="plan-table__timely-updates">
-                        <li><strong>Fall 2017:</strong> OSMRC published data related to prevention, training, cases reported, and investigation outcomes in a 2016 Annual Report
+                        <li><strong>Fall 2017:</strong> OSMRC published data related to prevention, training, cases reported, and investigation outcomes in a <a href="https://osmrc.uiowa.edu/about-us/2016-annual-report">2016 Annual Report</a>
                         </li>
                         <li><strong>Fall 2017:</strong> OSMRC published a booklet describing the stages of the employee conduct complaint process to help survivors make an informed choice about making an employee conduct complaint</li>
-                        <li><strong>Fall 2017:</strong> OSMRC implemented a student roundtable series to provide the opportunity for questions and dialogue about campus projects and processes</li>
+                        <li><strong>Fall 2017:</strong> OSMRC implemented a <a href="https://osmrc.uiowa.edu/osmrc-student-roundtable-series">student roundtable series</a> to provide the opportunity for questions and dialogue about campus projects and processes</li>
                         <li><strong>Spring 2017:</strong> OSMRC published a booklet describing the stages of the student conduct complaint process to help survivors make an informed choice about making a student conduct complaint</li>
                     </ul>
         </div>
