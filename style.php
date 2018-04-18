@@ -69,14 +69,19 @@ body{
 }
 
 .plan-sidebar {
-    float: right;
-    padding: 20px;
+    padding: 10px;
     margin: 5px;
     border: 1px solid #eee;
     background-color: #222;
     color: white;
 }
+@media only screen and (min-width: 768px) {
+    .plan-sidebar {
+        float: right;
+        padding: 20px;
+    }
 
+}
 .plan-sidebar__link {
     color: #ffd220;
     font-weight: bold;
@@ -102,7 +107,17 @@ body{
 .plan-table__column--large-text{
     font-size: 20px;
 }
-@media only screen and (min-width: 768px) {
+
+.plan-aside{
+    padding: 10px;
+}
+
+@media only screen and (min-width: 769px) {
+    .plan-aside{
+        float: right;
+    }
+}
+@media only screen and (min-width: 769px) {
     .plan-table {
         width: 100%;
         display: flex;

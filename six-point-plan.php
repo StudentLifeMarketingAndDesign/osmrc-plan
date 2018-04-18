@@ -4,8 +4,8 @@
 
 <?php include("plan-toc.php") ?>
 <div class="plan-intro">
-    <h2>Six Point Plan</h2>
-    <p>As of 04/5/2016</p>
+    <h2>Six Point Plan to Combat Sexual Assault</h2>
+    <p>February 2014 - Spring 2016</p>
     <p>While the action items listed below have been completed, the University of Iowa continues to have a committed team working collaboratively to prevent sexual misconduct and violence, as well as provide support to survivors and hold offenders accountable. There is absolutely no place for these crimes on the UI campus.</p>
 </div>
 <div class="plan-section__container">
