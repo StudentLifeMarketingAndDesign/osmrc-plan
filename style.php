@@ -151,7 +151,6 @@ body{
 .history-table__update-list{
     list-style-type: none;
     padding-left: 20px;
-    font-weight: bold;
 }
 .history-table__update-list>li:before{
     font-family: 'FontAwesome';
