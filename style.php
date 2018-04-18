@@ -74,6 +74,7 @@ body{
     border: 1px solid #eee;
     background-color: #222;
     color: white;
+    max-width: 240px;
 }
 @media only screen and (min-width: 768px) {
     .plan-sidebar {
@@ -186,5 +187,10 @@ body{
     }
 }
 
+.point-img{
+    display: block;
+    margin: auto;
+    max-width: 240px;
+}
 /*--><!]]>*/
 </style>

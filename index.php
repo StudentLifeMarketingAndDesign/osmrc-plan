@@ -11,10 +11,10 @@ Summer 2018 - Spring 2021
 <p>The University of Iowa has a committed team working to prevent sexual misconduct, dating violence, and stalking; provide support to survivors; and hold offenders accountable—and <a href="#">the Six Point Plan to Combat Sexual Assault</a> and the first iteration of the <a href="#">University of Iowa Anti-Violence Plan</a> have been completed.</p>
 
 <p>It’s on all of us to continue this important work, so the new three-year Anti-Violence Plan for sexual misconduct, dating violence, and stalking includes new action items, as well as four items carried over from the previous plan. It focuses on prevention and education, policy, and intervention, and it’s influenced by responses to the second iteration of the <a href="https://speakout.uiowa.edu" target="_blank">Speak Out Iowa campus climate survey</a> (noted by numbers), evidence-informed efforts and practices (noted by letters), and input from members of the <a href="https://osmrc.prod.drupal.uiowa.edu/anti-violence-coalition" target="_blank">University of Iowa Anti-Violence Coalition (AVC)</a>, survivors, and campus constituents.</p>
-    <aside class="plan-aside">
+    
     <h3>History</h3>
-    <p><a href="history.php">View history &amp; timeline</a></p>
-    </aside>
+    <p><a href="history.php">View a history &amp; timeline of the University of Iowa Anti-Violence Coalition efforts</a></p>
+  
 </div>
 
 <div class="plan-section__container">

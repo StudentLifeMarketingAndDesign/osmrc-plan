@@ -8,6 +8,7 @@
     <p>February 2014 - Spring 2016</p>
     <p>While the action items listed below have been completed, the University of Iowa continues to have a committed team working collaboratively to prevent sexual misconduct and violence, as well as provide support to survivors and hold offenders accountable. There is absolutely no place for these crimes on the UI campus.</p>
 </div>
+<div style="clear: both;"></div>
 <div class="plan-section__container">
 
     <h3 class="plan-section__table-label">Point 1: Crack down on offenders</h3>
@@ -42,7 +43,8 @@
             </li>
 
 
-        </ul> 
+        </ul>
+        <img src="img/point1.jpg" class="point-img" />
     </div>
 
 
@@ -70,6 +72,7 @@
             <li>“Soft space” interview room at UIPD dedicated; designed to decrease stress and anxiety for survivors reporting sexual assault and other crimes to law enforcement. (November 2015)</li>
             <li>Beginning in spring 2016, University Counseling Services (UCS) implemented 30 minute same-day appointments to speak with a counselor about an immediate crisis, get support, identify coping strategies, and specify next steps toward the resolution of the crisis. These walk-in or scheduled appointments are available every afternoon and provide the UCS a mechanism to increase the number of appointments available and greater agility to respond to students needs by determining which services would be most helpful.</li>
         </ul>
+        <img src="img/point2.jpg" class="point-img" />
     </div>
 
 
@@ -103,7 +106,7 @@
             </li>
         </ul>
 
-
+        <img src="img/point3.jpg" class="point-img" />
     </div>
 
     <h3 class="plan-section__table-label">Point 4: Improve communication</h3>
@@ -138,8 +141,9 @@
 
             
     </ul>
-
- 
+    <img src="img/point4.jpg" class="point-img" />
+    </div>
+    
     <h3 class="plan-section__table-label">Point 5: Add funding</h3>
     <div class="plan-section" id="point-5">
         <ul>   
@@ -156,10 +160,12 @@
                     <li>The above FY 2014 grant has helped to 1) bolster coordination of pre-orientation, orientation, and post-orientation prevention education strategies, 2) enhance campus readiness for response to dating violence, 3) advance investigative expertise for campus law enforcement and judicial administrators, 4) promote culturally relevant prevention and intervention strategies and 5) strengthen victim safety and offender accountability through evidence-based sanctioning.</li>
                 </ul>
             </li>
+        </ul>
+        <img src="img/point5.jpg" class="point-img" />
     </div>
 
     <h3 class="plan-section__table-label">Point 6: Listen more and report back</h3>
-
+    <div class="plan-section" id="point-6">
     <ul>
         <li>Form a <a target="_blank" href="https://web.archive.org/web/20160917144017/http:/diversity.uiowa.edu/committee/student-advisory-committee-sexual-misconduct">student advisory committee on sexual misconduct to meet regularly with the president and senior staff.</a>
             <ul class="history-table__update-list">
@@ -173,6 +179,6 @@
         </li>
 
     </ul>
-
-
+    <img src="img/point6.jpg" class="point-img" />
+    </div>
 <?php include("foot.php") ?>
