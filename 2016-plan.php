@@ -23,7 +23,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Implement an online refresher course on sexual misconduct in the first semester for incoming undergraduate students as a follow-up to the required Success at Iowa course taken before coming to campus (2)
             </p>
         </div>
@@ -40,7 +40,7 @@ Fall 2016 - Spring 2018</h2>
 
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Develop a new module for orientation programs for incoming graduate and professional students to increase awareness of resources and reporting options, as well as prevention education (5, 12) (<a href="#SourceB">B</a>, <a href="#SourceC">C</a>)</p>
         </div>
         <div class="plan-table__column">
@@ -53,7 +53,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Expand faculty/staff sexual harassment prevention education by:</p>
             <ul>
                 <li>Including employees with appointments below 50% and undergraduate students in formal peer leadership roles (e.g., tutors) (5) (<a href="#SourceC">C</a>)</li>
@@ -71,7 +71,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
      <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Explore options and models for partnering with feeder high schools given evidence that prevention is more likely to be effective with students, developmentally, before college (2) (<a href="#SourceC">C</a>)</p>
         </div>
         <div class="plan-table__column">
@@ -85,7 +85,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Continue to engage and share prevention resources and strategies with community partners to help prevent incidents of sexual misconduct off campus (3) (<a href="#SourceC">C</a>)</p>
         </div>
         <div class="plan-table__column">
@@ -101,7 +101,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
 <p>Explore options and models for partnering with feeder high schools given evidence that prevention is more likely to be effective with students, developmentally, before college (2) (<a href="#SourceC">C</a>)</p>
             <p></p>
         </div>
@@ -115,7 +115,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Continue to engage and share prevention resources and strategies with community partners to help prevent incidents of sexual misconduct off campus (3) (<a href="#SourceC">C</a>)</p>
         </div>
         <div class="plan-table__column">
@@ -130,7 +130,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Work with Fraternity and Sorority Life staff and student leaders to implement procedures that create protective environments (e.g., improving safety and monitoring at events and creating social incentives for behavior) (2) (<a href="#SourceC">C</a>)</p>
         </div>
         <div class="plan-table__column">
@@ -146,7 +146,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Continue to develop and implement targeted education for and about specific populations identified at high risk for victimization (e.g., international students, LGBT community, etc.) (<a href="#SourceH">H</a>)</p>
         </div>
         <div class="plan-table__column">
@@ -167,7 +167,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Increase messaging to parents about policies, procedures, resources, and how to respond to a disclosure (<a href="#SourceD">D</a>)</p>
         </div>
         <div class="plan-table__column">
@@ -179,7 +179,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Work with Fraternity and Sorority Life staff and student leaders to implement procedures that create protective environments (e.g., improving safety and monitoring at events and creating social incentives for behavior) (2) (<a href="#SourceC">C</a>)</p>
         </div>
         <div class="plan-table__column">
@@ -194,7 +194,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Develop and implement programming that promotes healthy masculinity across campus, specifically engaging groups where students who identify as men come together (<a href="#SourceC">C</a>)</p>
         </div>
         <div class="plan-table__column">
@@ -210,7 +210,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Raise awareness about dating violence and stalking, including where to get help and how to report victimization (6,7) (<a href="#SourceB">B</a>, <a href="#SourceH">H</a>), by:</p>
             <ul>
                 <li>Implementing a communications campaign (11)</li>
@@ -229,7 +229,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Implement Enhanced Assess, Acknowledge, Act (EAAA) sexual assault resistance education program (1) (<a href="#SourceC">C</a>), including content on:</p>
             <ul>
                 <li>The role of alcohol (3)</li>
@@ -249,7 +249,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Ensure programs reinforce that sexual assault by an acquaintance is most common while also raising awareness of measures to reduce the risk of victimization by a stranger (8)</p>
         </div>
         <div class="plan-table__column">
@@ -263,7 +263,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Ensure alcohol harm reduction efforts include: (3) (<a href="#SourceC">C</a>, <a href="#SourceI">I</a>)</p>
             <ul>
                 <li>Recommendations for parents/guardians on talking with their student about alcohol (e.g., <em>A Parent Handbook for Talking with College Students About Alcohol</em>)</li>
@@ -289,7 +289,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Identify and explore ways to centralize the evaluation of all student prevention education programs through coordination in the Office of the Vice President for Student Life (<a href="#SourceB">B</a>, <a href="#SourceE">E</a>)</p>
         </div>
         <div class="plan-table__column">
@@ -302,7 +302,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Build a team of peer educators to expand capacity for prevention education, including increasing student preparedness to respond to disclosures of victimization (1, 9, 11)</p>
         </div>
         <div class="plan-table__column">
@@ -316,7 +316,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Maximize attendance of bystander intervention training during On Iowa! by offering it earlier in the orientation schedule, and track attendance so students not in attendance can be identified for future programming (2) (<a href="#SourceC">C</a>).</p>
         </div>
         <div class="plan-table__column">
@@ -329,7 +329,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Partner with UISG to promote It’s On Us messaging campaign to expand its impact and ensure the content is aligned and linked to other prevention activities (1, 2) (<a href="#SourceC">C</a>).</p>
         </div>
         <div class="plan-table__column">
@@ -343,7 +343,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Create a web resource connecting groups and individuals looking for education with the appropriate resources and opportunities (2) (<a href="#SourceC">C</a>)</p>
         </div>
         <div class="plan-table__column">
@@ -356,7 +356,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Implement a strategy for continuous improvement by establishing learning benchmarks for all students in their first, second, third, and fourth years, and assessing outcomes (e.g., know when each student should receive what content and develop specific skills, recognizing that there’s an optimal progression in knowledge/skills development) (<a href="#SourceF">F</a>, <a href="#SourceH">H</a>)</p>
         </div>
         <div class="plan-table__column">
@@ -370,7 +370,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
      <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Implement biannual climate survey of students regarding their experiences with sexual misconduct, dating violence, and stalking (I)</p>
         </div>
         <div class="plan-table__column">
@@ -392,7 +392,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
 <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Enhance education about resources on campus and in the community for students to ensure they know where to get help and where to make a report by: (12)(<a href="#SourceB">B</a>)
                     <ul>
                         <li>Providing a safety booklet in every residence hall room that highlights resources available on campus (2)</li>
@@ -420,7 +420,7 @@ Fall 2016 - Spring 2018</h2>
 
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Provide training on responding effectively to disclosures to promote help-seeking behavior by:</p>
             <ul>
                 <li>Increasing education programs for students/campus community on how to respond to a disclosure by a friend/peer (9)</li>
@@ -444,7 +444,7 @@ Fall 2016 - Spring 2018</h2>
 
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
                 <p>Collaborate with directors of graduate programs and professional school deans to cultivate a respectful and safe environment within their department or college (5) (<a href="#SourceE">E</a>)
                     </p>
         </div>
@@ -461,7 +461,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
      <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Advance investigative expertise for campus law enforcement and judicial administrators to increase accountability of persons committing sexual assault, dating violence, domestic violence, and stalking (4) (<a href="#SourceH">H</a>):</p>
             <ul>
                 <li>Develop a sustainable education program for new officers and judicial administrators</li>
@@ -493,7 +493,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Strengthen resources for survivors:
             <ul>
                 <li>Raise awareness about the impact of adverse childhood experiences (ACE) to promote linkage with resources for reducing the risk of future trauma (4) (<a href="#SourceC">C</a>)</li>
@@ -518,7 +518,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
 <p>Expand resources for people accused of sexual misconduct by:</p>
             <ul>
                 <li>Creating student judicial process guidance for those accused (<a href="#SourceG">G</a>)</li>
@@ -536,7 +536,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Expand resources for people found responsible for a policy violation to prevent reoccurrence and ensure fairness:</p>
             <ul>
                 <li>Ensure an alcohol or drug assessment is required as a sanction when the person found responsible was using alcohol or drugs during an incident of sexual misconduct, dating violence, or stalking (3))</li>
@@ -557,7 +557,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Engage with community partners to ensure coordinated responses by establishing a memorandum of understanding with local law enforcement agencies to complement the county guidelines for investigating sex crimes (<a href="#SourceJ">J</a>)</p>
         </div>
         <div class="plan-table__column">
@@ -578,7 +578,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
   <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Streamline and align existing civil rights policies and procedures while exploring the feasibility of merging them into one policy (<a href="#SourceA">A</a>)
             </p>
         </div>
@@ -593,7 +593,7 @@ Fall 2016 - Spring 2018</h2>
 
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Identify and utilize a variety of mechanisms to collect campus feedback to inform policy review and revision</p>
         </div>
         <div class="plan-table__column">
@@ -609,7 +609,7 @@ Fall 2016 - Spring 2018</h2>
 
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
                    <p>Identify and engage with local, state, and national policy leaders, as well as professional associations (e.g., elected officials, Office of Civil Rights, Association of Title IX Administrators, and National Association of College and University Attorneys) to confirm legal requirements are met, best practices are implemented, and the university contributes to societal change
                     </p>
         </div>
@@ -625,7 +625,7 @@ Fall 2016 - Spring 2018</h2>
     </div>
      <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Develop explicit campus policy education programs and tools to increase knowledge about how policies are applied by:</p>
             <ul>
                 <li>Broadening publication of aggregate response and investigation outcomes data, including sanctions imposed, related to sexual misconduct, dating violence, and stalking to increase transparency (10)</li>
