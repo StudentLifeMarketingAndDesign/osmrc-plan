@@ -4,13 +4,13 @@
 <?php include("plan-toc.php") ?>
 
 <div class="plan-intro">
-    <h2>The University of Iowa Anti-Violence Plan
-for sexual misconduct, dating violence, and stalking
+    <h2>The University of Iowa Anti-Violence Plan<br />
+for sexual misconduct, dating violence, and stalking<br />
 Summer 2018 - Spring 2021
 </h2>
-<p>The University of Iowa has a committed team working to prevent sexual misconduct, dating violence, and stalking; provide support to survivors; and hold offenders accountable—and <a href="#">the Six Point Plan to Combat Sexual Assault</a> and the first iteration of the <a href="#">University of Iowa Anti-Violence Plan</a> have been completed.</p>
+<p>The University of Iowa has a committed team working to prevent sexual misconduct, dating violence, and stalking; provide support to survivors; and hold offenders accountable—and <a href="#">the Six Point Plan to Combat Sexual Assault</a> and the first iteration of the <a href="#">University of Iowa Anti-Violence Plan</a> have been closed out.</p>
 
-<p>It’s on all of us to continue this important work, so the new three-year Anti-Violence Plan for sexual misconduct, dating violence, and stalking includes new action items, as well as four items carried over from the previous plan. It focuses on prevention and education, policy, and intervention, and it’s influenced by responses to the second iteration of the <a href="https://speakout.uiowa.edu" target="_blank">Speak Out Iowa campus climate survey</a> (noted by numbers), evidence-informed efforts and practices (noted by letters), and input from members of the <a href="https://osmrc.prod.drupal.uiowa.edu/anti-violence-coalition" target="_blank">University of Iowa Anti-Violence Coalition (AVC)</a>, survivors, and campus constituents.</p>
+<p>It’s on all of us to continue this important work, so the new three-year Anti-Violence Plan for sexual misconduct, dating violence, and stalking includes new action items, as well as four items carried over from the previous plan. It focuses on prevention and education, intervention, and policy, and it’s influenced by responses to the second iteration of the <a href="https://speakout.uiowa.edu" target="_blank">Speak Out Iowa campus climate survey</a> (noted by numbers), evidence-informed efforts and practices (noted by letters), and input from members of the <a href="https://osmrc.prod.drupal.uiowa.edu/anti-violence-coalition" target="_blank">University of Iowa Anti-Violence Coalition (AVC)</a>, survivors, and stakeholders.</p>
     
     <h3>History</h3>
     <p><a href="history.php">View a history &amp; timeline of the University of Iowa Anti-Violence Coalition efforts</a></p>
@@ -25,7 +25,7 @@ Summer 2018 - Spring 2021
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Expand student prevention and education so every student develops the knowledge and skills to engage in healthy relationships, serve as active bystanders, respond effectively to disclosures, and report problems (1, 2, 3, 14, B, J, L) by:</p>
             <ul>
                 <li>Updating the Education and Training Database to collect attendance data for individual student participants and to report on how attendance works towards meeting the university’s <a href="https://endingviolence.uiowa.edu/assets/Uploads/CES-Gender-Based-Violence-Prevention-Learning-Outcomes.pdf" target="_blank">Gender-Based Violence Prevention Learning Outcomes</a></li>
@@ -34,7 +34,7 @@ Summer 2018 - Spring 2021
                 <li>Exploring the creation of a career readiness workshop for students about sexual harassment prevention in the workplace</li>
                 <li>Exploring the development of a for-credit course emphasizing primary prevention that targets first- and second-year students</li>
                 <li>Expanding messaging campaigns across campus, coordinated through the <a href="https://osmrc.uiowa.edu/campus-education-subcommittee-0" target="_blank">Campus Education Subcommittee</a></li>
-                <li>Reviewing the online programs used for educating incoming students and making a recommendation to continue or to switch to a new vendor</li>
+                <li>Reviewing the online programs used for educating incoming students and making a recommendation to continue with the current program or to switch to a new vendor</li>
                 <li>Providing tools for parents to use in conversations with their students about healthy relationships, consent, and the use of alcohol</li>
             </ul>
         </div>
@@ -49,13 +49,13 @@ Summer 2018 - Spring 2021
 
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Ensure campus prevention and education efforts meet the needs of racial and ethnic minority students, students with disabilities, international students, and LGBTQ communities on campus (5, 6, 7, A, C, D, I) by:</p>
             <ul>
                 <li>Implementing mechanisms to collect student feedback on current prevention and education efforts and developing or modifying prevention curriculum based on student input and best practices</li>
                 <li>Exploring modification of the <a href="https://endingviolence.uiowa.edu/workshops-and-training/workshop-9/" target="_blank">Flip the Script curriculum</a> to create a high-impact class for queer and gender non-binary students</li>
-                <li>Partnering with the Chief Diversity Office, Faculty Senate, and the Office of the Provost to support programming aimed at fostering an inclusive and welcoming environment</li>
-                <li>Expanding Certified Peer Educator program to better include culturally specific representation and content</li>
+                <li>Partnering with the Chief Diversity Office, Faculty Senate, Staff Council, and the Office of the Provost to support programming aimed at fostering an inclusive and welcoming environment</li>
+                <li>Expanding the Certified Peer Educator program to enhance culturally specific representation and content</li>
             </ul>
         </div>
         <div class="plan-table__column">
@@ -69,12 +69,12 @@ Summer 2018 - Spring 2021
 
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
                 <p>Increase engagement of faculty and staff in creating a respectful and safe campus (2, E, J) by:</p>
                 <ul>
                     <li>Exploring opportunities to add sexual harassment prevention content in faculty and staff on-boarding process</li>
-                    <li>Exploring opportunities to assist supervisors with maintaining respectful environments in the workplace by providing training on intervening quickly in response to sexist and crude comments</li>
-                    <li>Collaborating with directors of graduate programs and professional school deans to cultivate a respectful and safe environment within their department or college (carried over from 2016 plan)</li>
+                    <li>Exploring opportunities to assist supervisors in maintaining respectful environments by providing training on intervening quickly in response to sexist and crude comments in the workplace</li>
+                    <li>Collaborating with directors of graduate programs and professional school deans to cultivate a respectful and safe environment within their department or college (carried over from <a href="#">2016 plan</a>)</li>
                     <li>Expanding the <a href="https://vp.studentlife.uiowa.edu/priorities/grow/" target="_blank">Iowa Grow</a> education for supervisors of students to include how to address disclosures and communicate expectations for digital communication connected to the workplace (messaging apps, social media, etc.)</li>
                     <li>Evaluating and piloting the use of new online prevention training for student employees in the Division of Student Life</li>
                 </ul>
@@ -89,13 +89,13 @@ Summer 2018 - Spring 2021
     </div>
      <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Implement strategies to create protective environments and expand prevention messaging surrounding big events that are associated with alcohol consumption, including home football games and concerts (4, G)</p>
             <p>Continue collaboration with campus and community alcohol harm reduction efforts (4, B) by:</p>
             <ul>
                 <li>Offering late night programming and expanding opportunities to reach abstainers, low-risk drinkers, and high-risk drinkers</li>
                 <li>Assessing late night programming data to ensure events are reaching at-risk populations, including LGBTQ students</li>
-                <li>Continuing work with Fraternity &amp; Sorority Life to decrease high-risk alcohol use, including sustaining the ban on hard alcohol from social events</li>
+                <li>Continuing work with Fraternity &amp; Sorority Life to decrease high-risk alcohol use, including sustaining the ban on hard alcohol at social events</li>
             </ul>
         </div>
         <div class="plan-table__column">
@@ -107,18 +107,18 @@ Summer 2018 - Spring 2021
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Expand and coordinate programming focused on mobilizing and engaging male-identified students, staff, faculty, and community partners to work as allies with all genders to create cultures of respect, free from gender-based violence (8, A, B) by:</p>
             <ul>
                 <li>Charging the Healthy Masculinities Task Force to:
                     <ul>
-                        <li>Define mission statement that targets observable outcomes geared at decreasing and ultimately ending gender-based violence</li>
+                        <li>Define a mission statement that targets observable outcomes geared at decreasing and ultimately ending gender-based violence</li>
                         <li>Host monthly discussion groups to shift social norms that define masculinity in order to promote authenticity and safety</li>
                         <li>Coordinate training opportunities on campus and in the community to engage men and boys in redefining masculinity and preventing gender-based violence</li>
                     </ul>
                 </li>
-                <li>Promoting authentic masculinities discussion groups in residence halls (facilitated by WRAC and UCS)</li>
-                <li>Developing more facilitators for <a href="https://police.uiowa.edu/police/better-men-better-hawkeyes" target="_blank">Better Men, Better Hawkeyes curriculum</a> (facilitated by DPS)</li>
+                <li>Promoting authentic masculinities discussion groups in residence halls (facilitated by Women's Resource &amp; Action Center [WRAC] and University Counseling Services [UCS] )</li>
+                <li>Developing more facilitators for the <a href="https://police.uiowa.edu/police/better-men-better-hawkeyes" target="_blank">Better Men. Better Hawkeyes. curriculum</a> (facilitated by the UI Department of Safety [UIDPS])</li>
                 <li><a href="https://wrac.uiowa.edu/get-involved/mens-anti-violence/" target="_blank">Promoting the Men’s Anti-Violence Council</a> (facilitated by WRAC)</li>
                 <li>Expanding men and masculinities work to include fraternity student leadership and other potential areas such as intermural clubs</li>
             </ul>
@@ -133,7 +133,7 @@ Summer 2018 - Spring 2021
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Explore additional methodologies for assessing the campus climate around sexual misconduct, dating violence, and stalking (H) by:</p>
             <ul>
                 <li>Creating a research partnership with the <a href="https://www.mailman.columbia.edu/research/sexual-health-initiative-foster-transformation" target="_blank">SHIFT research project at Columbia University</a> to ensure survivors’ voices continue to inform priorities and strategies on the UI campus</li>
@@ -150,7 +150,7 @@ Summer 2018 - Spring 2021
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Continue to advance institutional trustworthiness and transparency by developing, implementing, and evaluating programming for undergraduate students that includes explicit, active, discussion-based policy education about confidential resources, how to report, and the adjudication process (11)</p>
         </div>
           <div class="plan-table__column">
@@ -172,7 +172,7 @@ Summer 2018 - Spring 2021
     </div>
 <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Increase knowledge of how to get help and where to report (9, 10, 11, A, F, K) by:
                     <ul>
                         <li>Providing a safety booklet in every residence hall room that highlights resources available on campus (2)</li>
@@ -193,7 +193,7 @@ Summer 2018 - Spring 2021
 
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
                     <p>Expand collaboration to promote trauma-informed approaches (10, A) by:</p>
                     <ul>
                         <li>Exploring opportunities to incorporate trauma screening into clinical health practice, health promotion consultations, and the Health Risk Assessment through Student Health &amp; Wellness</li>
@@ -211,19 +211,33 @@ Summer 2018 - Spring 2021
         </div>
 
     </div>
-
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
+                    <p> Build capacity for RVAP to develop, implement, and evaluate a student
+peer advocacy program that fosters trauma recovery and healing (B)</p>
+
+        </div>
+        <div class="plan-table__column">
+            <h5>Updates</h5>
+            <ul class="plan-table__timely-updates">
+                <li>No updates at this time.</li>
+            </ul>
+        </div>
+
+    </div>
+    <div class="plan-table">
+        <div class="plan-table__column plan-table__column--large-text">
+            <h4>Strategy</h4>
                <p>Ensure campus intervention efforts meet the needs of racial and ethnic minority students, students with disabilities, international students, and LGBTQ communities on campus (5, 6, 7, A, J) by:</p>
                <ul>
                 <li>Implementing mechanisms to collect student feedback on current campus intervention efforts</li>
                 <li>Developing non-traditional support groups to reach racial/ethnic minority communities and LGBTQ communities on campus</li> 
-                <li>Collecting data from direct service providers and reporting offices on the race/ethnicity and sexual orientation of reporting parties to ensure we’re reaching all populations</li> 
+                <li>Collecting data from direct service providers and reporting offices on the race/ethnicity and sexual orientation of reporting parties to ensure we are reaching all populations</li> 
                 <li>Researching and evaluating community policing strategies and incorporating them to create a blueprint to assist UI Police liaison officers in increasing communication and outreach between law enforcement and UI community members, especially UI Police liaisons to groups that were identified as higher risk in the campus climate survey</li>
                 <li>Expanding training for decision makers and judicial administrators on working with all student populations</li>
-                <li>Exploring partnering with cultural centers to provide training on responding to disclosures to staff members</li>
-                <li>Strengthening visibility of culturally specific services (Monsoon Asians and Pacific Islanders in Solidarity, Nisaa African Family Services, and Transformative Healing) on campus</li>
+                <li>Exploring partnering with cultural centers' staff to develop and provide training on responding to disclosures</li>
+                <li>Strengthening the visibility of culturally specific services (Monsoon Asians and Pacific Islanders in Solidarity, Nisaa African Family Services, and Transformative Healing) on campus</li>
                </ul>
         </div>
         <div class="plan-table__column">
@@ -236,8 +250,8 @@ Summer 2018 - Spring 2021
     </div>
      <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
-            <p>Work with the assessment coordinator in the Office of the Vice President for Student Life to develop learning outcomes for training for campus decision makers and judicial administrators (A)</p>
+            <h4>Strategy</h4>
+            <p>Work with the assessment coordinator in the Office of the Vice President for Student Life to develop learning outcomes for training for campus decision-makers and judicial administrators (A)</p>
         </div>
         <div class="plan-table__column">
             <h5>Updates</h5>
@@ -248,7 +262,7 @@ Summer 2018 - Spring 2021
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Ensure campus intervention efforts meet the needs of male-identified students, faculty, and staff who have experienced sexual misconduct (1, 3) by:</p>
             <ul>
                 <li>Developing and implementing training curricula for students, faculty, and staff to effectively respond to disclosures from and support male-identified survivors of sexual misconduct</li>
@@ -264,7 +278,7 @@ Summer 2018 - Spring 2021
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Explore additional methodologies for evaluating campus intervention efforts (H) by: </p>
             <ul>
                 <li>Developing a conceptual framework and research design to study the experiences of complainants and respondents involved in the sexual misconduct reporting and adjudication process</li>
@@ -280,7 +294,7 @@ Summer 2018 - Spring 2021
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Increase training for senior human resource representatives and associate deans on how to have effective conversations that motivate behavioral change when facilitating an informal sexual harassment resolution (carried over from <a href="#">2016 plan</a>)</p>
         </div>
         <div class="plan-table__column">
@@ -293,7 +307,7 @@ Summer 2018 - Spring 2021
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Engage with community partners to ensure coordinated responses by establishing a memorandum of understanding with local law enforcement agencies to complement the county guidelines for investigating sex crimes (carried over from <a href="#">2016 plan</a>)</p>
         </div>
         <div class="plan-table__column">
@@ -314,7 +328,7 @@ Summer 2018 - Spring 2021
     </div>
   <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Identify and utilize a variety of mechanisms to collect campus feedback to inform policy review and revision, including working with the Student Advisory Committee on Sexual Misconduct and others (J)</p>
         </div>
         <div class="plan-table__column">
@@ -328,7 +342,7 @@ Summer 2018 - Spring 2021
 
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Develop and implement an informal resolution option for addressing reports of non-criminal sexual misconduct involving students that is evidence- and trauma-informed, used at the request of the reporting party, and adherent to appropriate standards for due process (M)</p>
             <ul>
                 <li>Explore student resolution options through a transformative justice framework</li>
@@ -345,8 +359,8 @@ Summer 2018 - Spring 2021
 
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
-            <p>Review process for informal resolutions under all <a href="https://opsmanual.uiowa.edu/community-policies" target="_blank">UI community policies</a> (L, M) to:</p>
+            <h4>Strategy</h4>
+            <p>Review the process for informal resolutions under all <a href="https://opsmanual.uiowa.edu/community-policies" target="_blank">UI community policies</a> (L, M) to:</p>
             <ul>
                 <li>Promote a shared understanding as to the scope, purpose, and terminology</li>
                 <li>Ensure compliance with regulatory considerations (i.e., privacy, due process, etc.)</li>
@@ -364,11 +378,11 @@ Summer 2018 - Spring 2021
     </div>
      <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Evaluate <a href="https://opsmanual.uiowa.edu/community-policies">UI community policies</a> and <a href="https://dos.uiowa.edu/policies/student-judicial-procedure-17-18/">Student Judicial Procedure</a> to identify opportunities (B, E, F, J) for:</p>
             <ul>
-                <li>Clarifying/simplifying/aligning language across policies for consistency</li>
-                <li>Aligning appeal processes/procedures</li>
+                <li>Clarifying, simplifying, and aligning language across policies for consistency</li>
+                <li>Aligning appeal processes and procedures</li>
                 <li>Reviewing the procedures for interim measures; educational/training requirements; post-investigation procedures, including sanctioning; the intersection of complementary policies (HR, work rules, departmental policies); and the utilization of joint investigations between the Office of Equal Opportunity and Diversity and Human Resources</li>
             </ul>
 
@@ -383,7 +397,7 @@ Summer 2018 - Spring 2021
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Host K-12 education and community leaders from Iowa in discussions of sexual misconduct policies critical to prevention, intervention, and legislation</p>
 
         </div>
@@ -397,7 +411,7 @@ Summer 2018 - Spring 2021
     </div>
     <div class="plan-table">
         <div class="plan-table__column plan-table__column--large-text">
-            <h4>Implementation</h4>
+            <h4>Strategy</h4>
             <p>Develop success measures for assessing the effectiveness of policies and procedures (A)</p>
         </div>
         <div class="plan-table__column">

@@ -13,14 +13,15 @@ body{
 }
 
 .l-main-container {
-/*    transform: none;*/
+    transform: none;
     max-width: 1440px;
 
 }
 @media only screen and (min-width: 1140px) {
     .l-main-container {
-/*        margin-top: -120px;       
-*/    }
+        margin-top: -120px; 
+        margin-bottom: 0;      
+    }
 }
 .plan-intro {
     max-width: 800px;
@@ -71,21 +72,31 @@ body{
 .plan-sidebar {
     padding: 10px;
     margin: 5px;
-    border: 1px solid #eee;
-    background-color: #222;
-    color: white;
     max-width: 240px;
+
 }
 @media only screen and (min-width: 768px) {
     .plan-sidebar {
         float: right;
-        padding: 20px;
+        padding: 40px;
+        padding-right: 0;
     }
 
 }
+
+.plan-sidebar__header{
+    font-size: 17px;
+    color: #555;
+    font-weight: normal;
+    text-transform: uppercase;
+}
 .plan-sidebar__link {
-    color: #ffd220;
     font-weight: bold;
+}
+.plan-sidebar__link--sec-level {
+    
+    font-weight: normal;
+    border: none;
 }
 
 .plan-sidebar__nav {
@@ -94,10 +105,19 @@ body{
     list-style-type: none;
 }
 .plan-sidebar__nav--second-level{
-    margin-left: 20px;
     font-size: 14px;
-    list-style-type: square;
+    list-style-type: none;
 }
+
+.plan-sidebar__section{
+    
+    padding: 10px 0;
+}
+
+.plan-sidebar__section:not(:last-child){
+    border-bottom: 1px solid #eee;
+}
+
 .plan-table{
     padding: 10px;
 }
@@ -106,7 +126,7 @@ body{
 }
 
 .plan-table__column--large-text{
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .plan-aside{
@@ -194,3 +214,50 @@ body{
 }
 /*--><!]]>*/
 </style>
+<script>
+    /*-------------------------------------------------*/
+/*-------------------------------------------------*/
+// Smooth Scroll Anchors
+/*-------------------------------------------------*/
+/*-------------------------------------------------*/
+
+// Smooth scroll
+// https://css-tricks.com/snippets/jquery/smooth-scrolling/
+// Select all links with hashes
+jQuery('a[href*="#"]')
+    // Remove links that don't actually link to anything
+    .not('[href="#"]')
+    .not('[href="#0"]')
+    .click(function(event) {
+        
+        // On-page links
+        if ( location.pathname.replace(/^\//, '') === this.pathname.replace(/^\//, '') && location.hostname === this.hostname ) {
+            // Figure out element to scroll to
+            var target = $(this.hash);
+            target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+            
+            // Does a scroll target exist?
+            if (target.length) {
+                // Only prevent default if animation is actually gonna happen
+                event.preventDefault();
+                
+                $('html, body').animate({
+                    scrollTop: target.offset().top
+                }, 1000, function() {
+                    // Callback after animation
+                    // Must change focus!
+                    var $target = $(target);
+                    
+                    $target.focus();
+                    if ($target.is(":focus")) { // Checking if the target was focused
+                        return false;
+                    } else {
+                        $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
+                        $target.focus(); // Set focus again
+                    }
+                });
+            }
+        }
+    });
+
+</script>
